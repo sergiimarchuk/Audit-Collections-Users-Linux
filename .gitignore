@@ -1,0 +1,6 @@
+# Ignore files that start with local_report_
+local_report_*
+
+# Or ignore files that contain local_report_ anywhere in the name
+*local_report_*
+
