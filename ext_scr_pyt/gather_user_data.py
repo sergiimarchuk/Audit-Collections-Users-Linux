@@ -144,8 +144,8 @@ def extract_groups():
                 # Save to main dictionary
                 users_data[username] = user_data
                 
-                # Log only if "EVRY" is not in gecos_field
-                if "LENOVO" not in gecos_field:
+                # Log only if "COMPANYNAME" is not in gecos_field
+                if "COMPANYNAME" not in gecos_field:
                     checklog_file(str(user_data)) #!!! do not delete this line it is works as expected just for special case without function read_dic(dict_data)
                     #read_dic(user_data) #this works as expected just without at the begining line \{ and at the end line \} so we can use script without extra function read_dic(dict_data) in this case less code in this script 
 
