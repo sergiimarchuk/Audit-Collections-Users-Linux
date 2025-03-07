@@ -160,28 +160,8 @@ def prep_to_excel():
         for dic_line in fc:
             print(dic_line.strip())            
 
-# Print final collected data
-#print(users_data)
 
 
 
-'''
 
-def read_dic(dict_data):
-    """Iterate through dictionary and print key-value pairs."""
-    for key, value in dict_data.items():
-        print(f"\nUser: {key}")
-        if isinstance(value, dict):
-            for sub_key, sub_value in value.items():
-                if isinstance(sub_value, dict):
-                    print(f"  {sub_key}: dict")
-                else:
-                    print(f"  {sub_key}: {sub_value}")
-        else:
-            print("  Error: Expected dictionary but found something else")
-'''
-
-
-#read_dic((users_data))
-#print(type(users_data))
 
