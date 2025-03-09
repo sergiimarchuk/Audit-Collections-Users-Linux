@@ -24,8 +24,8 @@ logging.basicConfig(
 logging.info("Starting script execution")
 
 # Configuration
-DB_NAME = 'untitled.db'  # Using original database name
-REPORT_PREFIX = 'local_report'
+DB_NAME = '../_db/untitled.db'  # Using original database name
+REPORT_PREFIX = 'local_report_'
 
 # Current directory path
 current_dir = os.getcwd()
@@ -67,7 +67,7 @@ def get_info():
     
     files_in_dir = os.listdir(current_dir)
     for files in files_in_dir:
-        if "local_report" in files:
+        if "local_report_" in files:
             try:
                 # Extract server name from filename - keeping original logic
                 try:

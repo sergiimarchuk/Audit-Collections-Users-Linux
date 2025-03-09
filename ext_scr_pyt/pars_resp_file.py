@@ -23,8 +23,8 @@ logging.basicConfig(
 logging.info("Starting script execution")
 
 # Configuration
-DB_NAME = 'untitled.db'
-RESPONSIBILITY_FILE = 'responsibility-list.txt'
+DB_NAME = '../_db/untitled.db'
+RESPONSIBILITY_FILE = '../source_f/responsibility-list.txt'
 
 # Get current directory path
 current_dir = os.getcwd()

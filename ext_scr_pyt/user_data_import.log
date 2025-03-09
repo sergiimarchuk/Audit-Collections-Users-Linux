@@ -1,0 +1,15 @@
+2025-03-09 14:00:00,247 - INFO - Starting script execution
+2025-03-09 14:00:00,247 - INFO - Connected to database: ../_db/untitled.db
+2025-03-09 14:00:00,248 - INFO - Processing complete. Files processed: 0, Records added: 0
+2025-03-09 14:00:00,248 - INFO - Script execution completed
+2025-03-09 14:03:32,199 - INFO - Starting script execution
+2025-03-09 14:03:32,199 - INFO - Connected to database: ../_db/untitled.db
+2025-03-09 14:03:32,199 - INFO - Processing file: local_report_ for server: 
+2025-03-09 14:03:32,201 - INFO - Processing complete. Files processed: 1, Records added: 0
+2025-03-09 14:03:32,201 - INFO - Script execution completed
+2025-03-09 14:10:29,336 - INFO - Starting script execution
+2025-03-09 14:10:29,336 - INFO - Connected to database: ../_db/untitled.db
+2025-03-09 14:10:29,336 - INFO - Processing file: local_report_ilp-authsv-143 for server: ilp-authsv-143
+2025-03-09 14:10:29,441 - INFO - Processing file: local_report_ for server: 
+2025-03-09 14:10:29,442 - INFO - Processing complete. Files processed: 2, Records added: 53
+2025-03-09 14:10:29,442 - INFO - Script execution completed
