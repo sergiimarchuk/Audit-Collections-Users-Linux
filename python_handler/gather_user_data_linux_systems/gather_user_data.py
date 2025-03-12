@@ -14,14 +14,13 @@ from datetime import datetime
 
 formatted_time = datetime.now().strftime("_moved_%Y-%m-%dt%Hh%Mm%Ss")
 
-hostname_var = socket.gethostname()
+#hostname_var = socket.gethostname()
 
 
-dict_user_var = {}
+#dict_user_var = {}
 
-new_dict = {}
 
-group_list = []
+#group_list = []
 
 # Get timestamp
 datetime_var = datetime.now().strftime('%Y-%m-%d')
@@ -89,7 +88,7 @@ def log_rm_ex(file_path, archive_dir='/tmp'):
     if os.path.isfile(file_path):
         archive_path = os.path.join(archive_dir, f"{file_name}_{formatted_time}")
         shutil.move(file_path, archive_path)
-        message_filelog = (f"File: {file_name} has been moved to: {archive_path}. Original source: {cwd}")
+        message_filelog = (f"File: {file_name} has been moved to: {archive_path}  Original source: {cwd}")
         log_message(message_filelog)
         return True
     else:
@@ -112,7 +111,9 @@ def run_ext_bin(cmd, arg1, arg2):
         return result.stdout.split()[-6:]
     except subprocess.CalledProcessError as e:
         return f"Error running {cmd}: {e}"
-    
+        error_message = (f"Error running {cmd}: {e}")
+        log_message("An error occurred!", error_message)    
+
     
 def read_dic(dict_data):
     """Format and log a user data dictionary."""
@@ -186,6 +187,7 @@ def extract_groups():
             except (IndexError, AttributeError, subprocess.CalledProcessError) as e:
                 print(f"Error processing user {username}: {e}")
                 error_message = (f"Error processing user {username}: {e}")
+                log_message("An error occurred!", error_message)
                
                 
 
