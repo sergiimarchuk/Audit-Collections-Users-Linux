@@ -36,7 +36,7 @@ def connect_to_db():
     
     # Check if the database file exists and has content
     if not os.path.exists(db_path) or os.path.getsize(db_path) == 0:
-        logging.error(f"Database file does not exist or is empty: {db_path}")
+        logging.error(f"Database file does not exist or is empty: {db_path}  N. B. !: Please create db manually, just run python script which is located in dir {db_path} with name creation_db_untitled.py")
         return None, None, False
         
     try:
