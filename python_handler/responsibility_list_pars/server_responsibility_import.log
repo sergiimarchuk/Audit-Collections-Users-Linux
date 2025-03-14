@@ -1,0 +1,1460 @@
+2025-03-14 09:03:01,993 - INFO - Starting script execution
+2025-03-14 09:03:01,993 - INFO - Working directory: /opt/github_public_repo/Audit-Collections-Users-Linux/python_handler/responsibility_list_pars
+2025-03-14 09:03:01,993 - INFO - Connected to database: untitled.db
+2025-03-14 09:03:01,994 - ERROR - Responsibility file not found: /opt/github_public_repo/Audit-Collections-Users-Linux/python_handler/responsibility_list_pars/responsibility-list.txt
+2025-03-14 09:03:01,994 - INFO - Script execution completed
+2025-03-14 09:05:37,706 - INFO - Starting script execution
+2025-03-14 09:05:37,706 - INFO - Working directory: /opt/github_public_repo/Audit-Collections-Users-Linux/python_handler/responsibility_list_pars
+2025-03-14 09:05:37,706 - INFO - Connected to database: untitled.db
+2025-03-14 09:05:37,706 - ERROR - Error processing line 1: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,706 - ERROR - Error processing line 2: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,706 - ERROR - Error processing line 3: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,706 - ERROR - Error processing line 4: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,707 - ERROR - Error processing line 5: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,707 - ERROR - Error processing line 6: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,707 - ERROR - Error processing line 7: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,707 - ERROR - Error processing line 8: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,707 - ERROR - Error processing line 9: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,707 - ERROR - Error processing line 10: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,707 - ERROR - Error processing line 11: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,707 - ERROR - Error processing line 12: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,707 - ERROR - Error processing line 13: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,707 - ERROR - Error processing line 14: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,707 - ERROR - Error processing line 15: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,707 - ERROR - Error processing line 16: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,707 - ERROR - Error processing line 17: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,707 - ERROR - Error processing line 18: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,707 - ERROR - Error processing line 19: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,707 - ERROR - Error processing line 20: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,707 - ERROR - Error processing line 21: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,708 - ERROR - Error processing line 22: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,708 - ERROR - Error processing line 23: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,708 - ERROR - Error processing line 24: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,708 - ERROR - Error processing line 25: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,708 - ERROR - Error processing line 26: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,708 - ERROR - Error processing line 27: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,708 - ERROR - Error processing line 28: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,708 - ERROR - Error processing line 29: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,708 - ERROR - Error processing line 30: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,708 - ERROR - Error processing line 31: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,708 - ERROR - Error processing line 32: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,708 - ERROR - Error processing line 33: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,708 - ERROR - Error processing line 34: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,708 - ERROR - Error processing line 35: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,708 - ERROR - Error processing line 36: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,708 - ERROR - Error processing line 37: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,709 - ERROR - Error processing line 38: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,709 - ERROR - Error processing line 39: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,709 - ERROR - Error processing line 40: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,709 - ERROR - Error processing line 41: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,709 - ERROR - Error processing line 42: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,709 - ERROR - Error processing line 43: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,709 - ERROR - Error processing line 44: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,709 - ERROR - Error processing line 45: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,709 - ERROR - Error processing line 46: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,709 - ERROR - Error processing line 47: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,709 - ERROR - Error processing line 48: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,709 - ERROR - Error processing line 49: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,709 - ERROR - Error processing line 50: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,709 - ERROR - Error processing line 51: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,709 - ERROR - Error processing line 52: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,709 - ERROR - Error processing line 53: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,710 - ERROR - Error processing line 54: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,710 - ERROR - Error processing line 55: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,710 - ERROR - Error processing line 56: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,710 - ERROR - Error processing line 57: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,710 - ERROR - Error processing line 58: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,710 - ERROR - Error processing line 59: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,710 - ERROR - Error processing line 60: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,710 - ERROR - Error processing line 61: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,710 - ERROR - Error processing line 62: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,710 - ERROR - Error processing line 63: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,710 - ERROR - Error processing line 64: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,710 - ERROR - Error processing line 65: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,710 - ERROR - Error processing line 66: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,710 - ERROR - Error processing line 67: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,710 - ERROR - Error processing line 68: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,710 - ERROR - Error processing line 69: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,710 - ERROR - Error processing line 70: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,711 - ERROR - Error processing line 71: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,711 - ERROR - Error processing line 72: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,711 - ERROR - Error processing line 73: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,711 - ERROR - Error processing line 74: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,711 - ERROR - Error processing line 75: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,711 - ERROR - Error processing line 76: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,711 - ERROR - Error processing line 77: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,711 - ERROR - Error processing line 78: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,711 - ERROR - Error processing line 79: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,711 - ERROR - Error processing line 80: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,711 - ERROR - Error processing line 81: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,711 - ERROR - Error processing line 82: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,711 - ERROR - Error processing line 83: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,711 - ERROR - Error processing line 84: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,711 - ERROR - Error processing line 85: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,711 - ERROR - Error processing line 86: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,711 - ERROR - Error processing line 87: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,712 - ERROR - Error processing line 88: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,712 - ERROR - Error processing line 89: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,712 - ERROR - Error processing line 90: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,712 - ERROR - Error processing line 91: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,712 - ERROR - Error processing line 92: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,712 - ERROR - Error processing line 93: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,712 - ERROR - Error processing line 94: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,712 - ERROR - Error processing line 95: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,712 - ERROR - Error processing line 96: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,712 - ERROR - Error processing line 97: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,712 - ERROR - Error processing line 98: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,712 - ERROR - Error processing line 99: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,712 - ERROR - Error processing line 100: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,712 - ERROR - Error processing line 101: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,712 - ERROR - Error processing line 102: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,712 - ERROR - Error processing line 103: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,713 - ERROR - Error processing line 104: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,713 - ERROR - Error processing line 105: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,713 - ERROR - Error processing line 106: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,713 - ERROR - Error processing line 107: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,713 - ERROR - Error processing line 108: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,713 - ERROR - Error processing line 109: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,713 - ERROR - Error processing line 110: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,713 - ERROR - Error processing line 111: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,713 - ERROR - Error processing line 112: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,713 - ERROR - Error processing line 113: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,713 - ERROR - Error processing line 114: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,713 - ERROR - Error processing line 115: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,713 - ERROR - Error processing line 116: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,713 - ERROR - Error processing line 117: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,714 - ERROR - Error processing line 118: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,714 - ERROR - Error processing line 119: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,714 - ERROR - Error processing line 120: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,714 - ERROR - Error processing line 121: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,714 - ERROR - Error processing line 122: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,714 - ERROR - Error processing line 123: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,714 - ERROR - Error processing line 124: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,714 - ERROR - Error processing line 125: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,714 - ERROR - Error processing line 126: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,714 - ERROR - Error processing line 127: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,714 - ERROR - Error processing line 128: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,714 - ERROR - Error processing line 129: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,714 - ERROR - Error processing line 130: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,714 - ERROR - Error processing line 131: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,714 - ERROR - Error processing line 132: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,715 - ERROR - Error processing line 133: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,715 - ERROR - Error processing line 134: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,715 - ERROR - Error processing line 135: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,715 - ERROR - Error processing line 136: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,715 - ERROR - Error processing line 137: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,715 - ERROR - Error processing line 138: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,715 - ERROR - Error processing line 139: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,715 - ERROR - Error processing line 140: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,715 - ERROR - Error processing line 141: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,715 - ERROR - Error processing line 142: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,715 - ERROR - Error processing line 143: a bytes-like object is required, not 'str'
+2025-03-14 09:05:37,715 - INFO - Processing complete. Servers processed: 0, Servers added: 0
+2025-03-14 09:05:37,715 - INFO - Script execution completed
+2025-03-14 09:05:53,931 - INFO - Starting script execution
+2025-03-14 09:05:53,932 - INFO - Working directory: /opt/github_public_repo/Audit-Collections-Users-Linux/python_handler/responsibility_list_pars
+2025-03-14 09:05:53,932 - INFO - Connected to database: untitled.db
+2025-03-14 09:05:53,932 - INFO - Processing server: ilp-dbapp-01
+2025-03-14 09:05:53,932 - ERROR - Error checking if server ilp-dbapp-01 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,933 - ERROR - Error inserting data for server ilp-dbapp-01: no such table: tab_main_resp_server
+2025-03-14 09:05:53,933 - INFO - Processing server: ilp-webct-03
+2025-03-14 09:05:53,933 - ERROR - Error checking if server ilp-webct-03 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,933 - ERROR - Error inserting data for server ilp-webct-03: no such table: tab_main_resp_server
+2025-03-14 09:05:53,933 - INFO - Processing server: ilp-authsv-05
+2025-03-14 09:05:53,933 - ERROR - Error checking if server ilp-authsv-05 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,933 - ERROR - Error inserting data for server ilp-authsv-05: no such table: tab_main_resp_server
+2025-03-14 09:05:53,933 - INFO - Processing server: ilp-cachsv-02
+2025-03-14 09:05:53,933 - ERROR - Error checking if server ilp-cachsv-02 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,934 - ERROR - Error inserting data for server ilp-cachsv-02: no such table: tab_main_resp_server
+2025-03-14 09:05:53,934 - INFO - Processing server: ilp-backsv-04
+2025-03-14 09:05:53,934 - ERROR - Error checking if server ilp-backsv-04 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,934 - ERROR - Error inserting data for server ilp-backsv-04: no such table: tab_main_resp_server
+2025-03-14 09:05:53,934 - INFO - Processing server: ilp-appsv-06
+2025-03-14 09:05:53,934 - ERROR - Error checking if server ilp-appsv-06 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,934 - ERROR - Error inserting data for server ilp-appsv-06: no such table: tab_main_resp_server
+2025-03-14 09:05:53,934 - INFO - Processing server: ilp-dbsv-07
+2025-03-14 09:05:53,934 - ERROR - Error checking if server ilp-dbsv-07 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,935 - ERROR - Error inserting data for server ilp-dbsv-07: no such table: tab_main_resp_server
+2025-03-14 09:05:53,935 - INFO - Processing server: ilp-proxsv-08
+2025-03-14 09:05:53,935 - ERROR - Error checking if server ilp-proxsv-08 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,935 - ERROR - Error inserting data for server ilp-proxsv-08: no such table: tab_main_resp_server
+2025-03-14 09:05:53,935 - INFO - Processing server: ilp-logsv-09
+2025-03-14 09:05:53,935 - ERROR - Error checking if server ilp-logsv-09 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,935 - ERROR - Error inserting data for server ilp-logsv-09: no such table: tab_main_resp_server
+2025-03-14 09:05:53,935 - INFO - Processing server: ilp-monitr-10
+2025-03-14 09:05:53,935 - ERROR - Error checking if server ilp-monitr-10 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,936 - ERROR - Error inserting data for server ilp-monitr-10: no such table: tab_main_resp_server
+2025-03-14 09:05:53,936 - INFO - Processing server: ilp-dbapp-11
+2025-03-14 09:05:53,936 - ERROR - Error checking if server ilp-dbapp-11 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,936 - ERROR - Error inserting data for server ilp-dbapp-11: no such table: tab_main_resp_server
+2025-03-14 09:05:53,936 - INFO - Processing server: ilp-webct-12
+2025-03-14 09:05:53,936 - ERROR - Error checking if server ilp-webct-12 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,936 - ERROR - Error inserting data for server ilp-webct-12: no such table: tab_main_resp_server
+2025-03-14 09:05:53,936 - INFO - Processing server: ilp-authsv-13
+2025-03-14 09:05:53,936 - ERROR - Error checking if server ilp-authsv-13 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,936 - ERROR - Error inserting data for server ilp-authsv-13: no such table: tab_main_resp_server
+2025-03-14 09:05:53,937 - INFO - Processing server: ilp-cachsv-14
+2025-03-14 09:05:53,937 - ERROR - Error checking if server ilp-cachsv-14 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,937 - ERROR - Error inserting data for server ilp-cachsv-14: no such table: tab_main_resp_server
+2025-03-14 09:05:53,937 - INFO - Processing server: ilp-backsv-15
+2025-03-14 09:05:53,937 - ERROR - Error checking if server ilp-backsv-15 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,937 - ERROR - Error inserting data for server ilp-backsv-15: no such table: tab_main_resp_server
+2025-03-14 09:05:53,937 - INFO - Processing server: ilp-appsv-16
+2025-03-14 09:05:53,937 - ERROR - Error checking if server ilp-appsv-16 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,937 - ERROR - Error inserting data for server ilp-appsv-16: no such table: tab_main_resp_server
+2025-03-14 09:05:53,937 - INFO - Processing server: ilp-dbsv-17
+2025-03-14 09:05:53,938 - ERROR - Error checking if server ilp-dbsv-17 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,938 - ERROR - Error inserting data for server ilp-dbsv-17: no such table: tab_main_resp_server
+2025-03-14 09:05:53,938 - INFO - Processing server: ilp-proxsv-18
+2025-03-14 09:05:53,938 - ERROR - Error checking if server ilp-proxsv-18 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,938 - ERROR - Error inserting data for server ilp-proxsv-18: no such table: tab_main_resp_server
+2025-03-14 09:05:53,938 - INFO - Processing server: ilp-logsv-19
+2025-03-14 09:05:53,938 - ERROR - Error checking if server ilp-logsv-19 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,939 - ERROR - Error inserting data for server ilp-logsv-19: no such table: tab_main_resp_server
+2025-03-14 09:05:53,939 - INFO - Processing server: ilp-monitr-20
+2025-03-14 09:05:53,939 - ERROR - Error checking if server ilp-monitr-20 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,939 - ERROR - Error inserting data for server ilp-monitr-20: no such table: tab_main_resp_server
+2025-03-14 09:05:53,939 - INFO - Processing server: ilp-dbapp-21
+2025-03-14 09:05:53,939 - ERROR - Error checking if server ilp-dbapp-21 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,939 - ERROR - Error inserting data for server ilp-dbapp-21: no such table: tab_main_resp_server
+2025-03-14 09:05:53,939 - INFO - Processing server: ilp-webct-22
+2025-03-14 09:05:53,939 - ERROR - Error checking if server ilp-webct-22 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,940 - ERROR - Error inserting data for server ilp-webct-22: no such table: tab_main_resp_server
+2025-03-14 09:05:53,940 - INFO - Processing server: ilp-authsv-23
+2025-03-14 09:05:53,940 - ERROR - Error checking if server ilp-authsv-23 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,940 - ERROR - Error inserting data for server ilp-authsv-23: no such table: tab_main_resp_server
+2025-03-14 09:05:53,940 - INFO - Processing server: ilp-cachsv-24
+2025-03-14 09:05:53,940 - ERROR - Error checking if server ilp-cachsv-24 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,940 - ERROR - Error inserting data for server ilp-cachsv-24: no such table: tab_main_resp_server
+2025-03-14 09:05:53,940 - INFO - Processing server: ilp-backsv-25
+2025-03-14 09:05:53,940 - ERROR - Error checking if server ilp-backsv-25 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,941 - ERROR - Error inserting data for server ilp-backsv-25: no such table: tab_main_resp_server
+2025-03-14 09:05:53,941 - INFO - Processing server: ilp-appsv-26
+2025-03-14 09:05:53,941 - ERROR - Error checking if server ilp-appsv-26 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,941 - ERROR - Error inserting data for server ilp-appsv-26: no such table: tab_main_resp_server
+2025-03-14 09:05:53,941 - INFO - Processing server: ilp-dbsv-27
+2025-03-14 09:05:53,941 - ERROR - Error checking if server ilp-dbsv-27 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,941 - ERROR - Error inserting data for server ilp-dbsv-27: no such table: tab_main_resp_server
+2025-03-14 09:05:53,941 - INFO - Processing server: ilp-proxsv-28
+2025-03-14 09:05:53,941 - ERROR - Error checking if server ilp-proxsv-28 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,941 - ERROR - Error inserting data for server ilp-proxsv-28: no such table: tab_main_resp_server
+2025-03-14 09:05:53,942 - INFO - Processing server: ilp-logsv-29
+2025-03-14 09:05:53,942 - ERROR - Error checking if server ilp-logsv-29 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,942 - ERROR - Error inserting data for server ilp-logsv-29: no such table: tab_main_resp_server
+2025-03-14 09:05:53,942 - INFO - Processing server: ilp-monitr-30
+2025-03-14 09:05:53,942 - ERROR - Error checking if server ilp-monitr-30 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,942 - ERROR - Error inserting data for server ilp-monitr-30: no such table: tab_main_resp_server
+2025-03-14 09:05:53,942 - INFO - Processing server: ilp-dbapp-31
+2025-03-14 09:05:53,942 - ERROR - Error checking if server ilp-dbapp-31 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,943 - ERROR - Error inserting data for server ilp-dbapp-31: no such table: tab_main_resp_server
+2025-03-14 09:05:53,943 - INFO - Processing server: ilp-webct-32
+2025-03-14 09:05:53,943 - ERROR - Error checking if server ilp-webct-32 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,943 - ERROR - Error inserting data for server ilp-webct-32: no such table: tab_main_resp_server
+2025-03-14 09:05:53,943 - INFO - Processing server: ilp-authsv-33
+2025-03-14 09:05:53,943 - ERROR - Error checking if server ilp-authsv-33 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,943 - ERROR - Error inserting data for server ilp-authsv-33: no such table: tab_main_resp_server
+2025-03-14 09:05:53,943 - INFO - Processing server: ilp-cachsv-34
+2025-03-14 09:05:53,944 - ERROR - Error checking if server ilp-cachsv-34 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,944 - ERROR - Error inserting data for server ilp-cachsv-34: no such table: tab_main_resp_server
+2025-03-14 09:05:53,944 - INFO - Processing server: ilp-backsv-35
+2025-03-14 09:05:53,944 - ERROR - Error checking if server ilp-backsv-35 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,944 - ERROR - Error inserting data for server ilp-backsv-35: no such table: tab_main_resp_server
+2025-03-14 09:05:53,944 - INFO - Processing server: ilp-appsv-36
+2025-03-14 09:05:53,944 - ERROR - Error checking if server ilp-appsv-36 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,944 - ERROR - Error inserting data for server ilp-appsv-36: no such table: tab_main_resp_server
+2025-03-14 09:05:53,944 - INFO - Processing server: ilp-dbsv-37
+2025-03-14 09:05:53,945 - ERROR - Error checking if server ilp-dbsv-37 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,945 - ERROR - Error inserting data for server ilp-dbsv-37: no such table: tab_main_resp_server
+2025-03-14 09:05:53,945 - INFO - Processing server: ilp-proxsv-38
+2025-03-14 09:05:53,945 - ERROR - Error checking if server ilp-proxsv-38 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,945 - ERROR - Error inserting data for server ilp-proxsv-38: no such table: tab_main_resp_server
+2025-03-14 09:05:53,945 - INFO - Processing server: ilp-logsv-39
+2025-03-14 09:05:53,945 - ERROR - Error checking if server ilp-logsv-39 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,945 - ERROR - Error inserting data for server ilp-logsv-39: no such table: tab_main_resp_server
+2025-03-14 09:05:53,945 - INFO - Processing server: ilp-monitr-40
+2025-03-14 09:05:53,946 - ERROR - Error checking if server ilp-monitr-40 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,946 - ERROR - Error inserting data for server ilp-monitr-40: no such table: tab_main_resp_server
+2025-03-14 09:05:53,946 - INFO - Processing server: ilp-dbapp-41
+2025-03-14 09:05:53,946 - ERROR - Error checking if server ilp-dbapp-41 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,946 - ERROR - Error inserting data for server ilp-dbapp-41: no such table: tab_main_resp_server
+2025-03-14 09:05:53,946 - INFO - Processing server: ilp-webct-42
+2025-03-14 09:05:53,946 - ERROR - Error checking if server ilp-webct-42 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,946 - ERROR - Error inserting data for server ilp-webct-42: no such table: tab_main_resp_server
+2025-03-14 09:05:53,946 - INFO - Processing server: ilp-authsv-43
+2025-03-14 09:05:53,947 - ERROR - Error checking if server ilp-authsv-43 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,947 - ERROR - Error inserting data for server ilp-authsv-43: no such table: tab_main_resp_server
+2025-03-14 09:05:53,947 - INFO - Processing server: ilp-cachsv-44
+2025-03-14 09:05:53,947 - ERROR - Error checking if server ilp-cachsv-44 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,947 - ERROR - Error inserting data for server ilp-cachsv-44: no such table: tab_main_resp_server
+2025-03-14 09:05:53,947 - INFO - Processing server: ilp-backsv-45
+2025-03-14 09:05:53,947 - ERROR - Error checking if server ilp-backsv-45 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,947 - ERROR - Error inserting data for server ilp-backsv-45: no such table: tab_main_resp_server
+2025-03-14 09:05:53,947 - INFO - Processing server: ilp-appsv-46
+2025-03-14 09:05:53,948 - ERROR - Error checking if server ilp-appsv-46 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,948 - ERROR - Error inserting data for server ilp-appsv-46: no such table: tab_main_resp_server
+2025-03-14 09:05:53,948 - INFO - Processing server: ilp-dbsv-47
+2025-03-14 09:05:53,948 - ERROR - Error checking if server ilp-dbsv-47 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,948 - ERROR - Error inserting data for server ilp-dbsv-47: no such table: tab_main_resp_server
+2025-03-14 09:05:53,948 - INFO - Processing server: ilp-proxsv-48
+2025-03-14 09:05:53,948 - ERROR - Error checking if server ilp-proxsv-48 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,948 - ERROR - Error inserting data for server ilp-proxsv-48: no such table: tab_main_resp_server
+2025-03-14 09:05:53,948 - INFO - Processing server: ilp-logsv-49
+2025-03-14 09:05:53,949 - ERROR - Error checking if server ilp-logsv-49 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,949 - ERROR - Error inserting data for server ilp-logsv-49: no such table: tab_main_resp_server
+2025-03-14 09:05:53,949 - INFO - Processing server: ilp-monitr-50
+2025-03-14 09:05:53,949 - ERROR - Error checking if server ilp-monitr-50 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,949 - ERROR - Error inserting data for server ilp-monitr-50: no such table: tab_main_resp_server
+2025-03-14 09:05:53,949 - INFO - Processing server: ilp-dbapp-51
+2025-03-14 09:05:53,949 - ERROR - Error checking if server ilp-dbapp-51 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,949 - ERROR - Error inserting data for server ilp-dbapp-51: no such table: tab_main_resp_server
+2025-03-14 09:05:53,949 - INFO - Processing server: ilp-webct-52
+2025-03-14 09:05:53,950 - ERROR - Error checking if server ilp-webct-52 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,950 - ERROR - Error inserting data for server ilp-webct-52: no such table: tab_main_resp_server
+2025-03-14 09:05:53,950 - INFO - Processing server: ilp-authsv-53
+2025-03-14 09:05:53,950 - ERROR - Error checking if server ilp-authsv-53 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,950 - ERROR - Error inserting data for server ilp-authsv-53: no such table: tab_main_resp_server
+2025-03-14 09:05:53,950 - INFO - Processing server: ilp-cachsv-54
+2025-03-14 09:05:53,950 - ERROR - Error checking if server ilp-cachsv-54 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,950 - ERROR - Error inserting data for server ilp-cachsv-54: no such table: tab_main_resp_server
+2025-03-14 09:05:53,950 - INFO - Processing server: ilp-backsv-55
+2025-03-14 09:05:53,951 - ERROR - Error checking if server ilp-backsv-55 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,951 - ERROR - Error inserting data for server ilp-backsv-55: no such table: tab_main_resp_server
+2025-03-14 09:05:53,951 - INFO - Processing server: ilp-appsv-56
+2025-03-14 09:05:53,951 - ERROR - Error checking if server ilp-appsv-56 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,951 - ERROR - Error inserting data for server ilp-appsv-56: no such table: tab_main_resp_server
+2025-03-14 09:05:53,951 - INFO - Processing server: ilp-dbsv-57
+2025-03-14 09:05:53,951 - ERROR - Error checking if server ilp-dbsv-57 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,951 - ERROR - Error inserting data for server ilp-dbsv-57: no such table: tab_main_resp_server
+2025-03-14 09:05:53,951 - INFO - Processing server: ilp-proxsv-58
+2025-03-14 09:05:53,952 - ERROR - Error checking if server ilp-proxsv-58 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,952 - ERROR - Error inserting data for server ilp-proxsv-58: no such table: tab_main_resp_server
+2025-03-14 09:05:53,952 - INFO - Processing server: ilp-logsv-59
+2025-03-14 09:05:53,952 - ERROR - Error checking if server ilp-logsv-59 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,952 - ERROR - Error inserting data for server ilp-logsv-59: no such table: tab_main_resp_server
+2025-03-14 09:05:53,952 - INFO - Processing server: ilp-monitr-60
+2025-03-14 09:05:53,952 - ERROR - Error checking if server ilp-monitr-60 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,952 - ERROR - Error inserting data for server ilp-monitr-60: no such table: tab_main_resp_server
+2025-03-14 09:05:53,952 - INFO - Processing server: ilp-dbapp-61
+2025-03-14 09:05:53,953 - ERROR - Error checking if server ilp-dbapp-61 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,953 - ERROR - Error inserting data for server ilp-dbapp-61: no such table: tab_main_resp_server
+2025-03-14 09:05:53,953 - INFO - Processing server: ilp-webct-62
+2025-03-14 09:05:53,953 - ERROR - Error checking if server ilp-webct-62 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,953 - ERROR - Error inserting data for server ilp-webct-62: no such table: tab_main_resp_server
+2025-03-14 09:05:53,953 - INFO - Processing server: ilp-authsv-63
+2025-03-14 09:05:53,953 - ERROR - Error checking if server ilp-authsv-63 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,953 - ERROR - Error inserting data for server ilp-authsv-63: no such table: tab_main_resp_server
+2025-03-14 09:05:53,953 - INFO - Processing server: ilp-cachsv-64
+2025-03-14 09:05:53,954 - ERROR - Error checking if server ilp-cachsv-64 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,954 - ERROR - Error inserting data for server ilp-cachsv-64: no such table: tab_main_resp_server
+2025-03-14 09:05:53,954 - INFO - Processing server: ilp-backsv-65
+2025-03-14 09:05:53,954 - ERROR - Error checking if server ilp-backsv-65 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,954 - ERROR - Error inserting data for server ilp-backsv-65: no such table: tab_main_resp_server
+2025-03-14 09:05:53,954 - INFO - Processing server: ilp-appsv-66
+2025-03-14 09:05:53,954 - ERROR - Error checking if server ilp-appsv-66 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,954 - ERROR - Error inserting data for server ilp-appsv-66: no such table: tab_main_resp_server
+2025-03-14 09:05:53,954 - INFO - Processing server: ilp-dbsv-67
+2025-03-14 09:05:53,955 - ERROR - Error checking if server ilp-dbsv-67 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,955 - ERROR - Error inserting data for server ilp-dbsv-67: no such table: tab_main_resp_server
+2025-03-14 09:05:53,955 - INFO - Processing server: ilp-proxsv-68
+2025-03-14 09:05:53,955 - ERROR - Error checking if server ilp-proxsv-68 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,955 - ERROR - Error inserting data for server ilp-proxsv-68: no such table: tab_main_resp_server
+2025-03-14 09:05:53,955 - INFO - Processing server: ilp-logsv-69
+2025-03-14 09:05:53,955 - ERROR - Error checking if server ilp-logsv-69 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,955 - ERROR - Error inserting data for server ilp-logsv-69: no such table: tab_main_resp_server
+2025-03-14 09:05:53,955 - INFO - Processing server: ilp-monitr-70
+2025-03-14 09:05:53,956 - ERROR - Error checking if server ilp-monitr-70 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,956 - ERROR - Error inserting data for server ilp-monitr-70: no such table: tab_main_resp_server
+2025-03-14 09:05:53,956 - INFO - Processing server: ilp-dbapp-71
+2025-03-14 09:05:53,956 - ERROR - Error checking if server ilp-dbapp-71 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,956 - ERROR - Error inserting data for server ilp-dbapp-71: no such table: tab_main_resp_server
+2025-03-14 09:05:53,956 - INFO - Processing server: ilp-webct-72
+2025-03-14 09:05:53,956 - ERROR - Error checking if server ilp-webct-72 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,957 - ERROR - Error inserting data for server ilp-webct-72: no such table: tab_main_resp_server
+2025-03-14 09:05:53,957 - INFO - Processing server: ilp-authsv-73
+2025-03-14 09:05:53,957 - ERROR - Error checking if server ilp-authsv-73 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,957 - ERROR - Error inserting data for server ilp-authsv-73: no such table: tab_main_resp_server
+2025-03-14 09:05:53,957 - INFO - Processing server: ilp-cachsv-74
+2025-03-14 09:05:53,957 - ERROR - Error checking if server ilp-cachsv-74 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,957 - ERROR - Error inserting data for server ilp-cachsv-74: no such table: tab_main_resp_server
+2025-03-14 09:05:53,957 - INFO - Processing server: ilp-backsv-75
+2025-03-14 09:05:53,957 - ERROR - Error checking if server ilp-backsv-75 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,957 - ERROR - Error inserting data for server ilp-backsv-75: no such table: tab_main_resp_server
+2025-03-14 09:05:53,958 - INFO - Processing server: ilp-appsv-76
+2025-03-14 09:05:53,958 - ERROR - Error checking if server ilp-appsv-76 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,958 - ERROR - Error inserting data for server ilp-appsv-76: no such table: tab_main_resp_server
+2025-03-14 09:05:53,958 - INFO - Processing server: ilp-dbsv-77
+2025-03-14 09:05:53,958 - ERROR - Error checking if server ilp-dbsv-77 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,958 - ERROR - Error inserting data for server ilp-dbsv-77: no such table: tab_main_resp_server
+2025-03-14 09:05:53,958 - INFO - Processing server: ilp-proxsv-78
+2025-03-14 09:05:53,958 - ERROR - Error checking if server ilp-proxsv-78 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,958 - ERROR - Error inserting data for server ilp-proxsv-78: no such table: tab_main_resp_server
+2025-03-14 09:05:53,959 - INFO - Processing server: ilp-logsv-79
+2025-03-14 09:05:53,959 - ERROR - Error checking if server ilp-logsv-79 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,959 - ERROR - Error inserting data for server ilp-logsv-79: no such table: tab_main_resp_server
+2025-03-14 09:05:53,959 - INFO - Processing server: ilp-monitr-80
+2025-03-14 09:05:53,959 - ERROR - Error checking if server ilp-monitr-80 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,959 - ERROR - Error inserting data for server ilp-monitr-80: no such table: tab_main_resp_server
+2025-03-14 09:05:53,959 - INFO - Processing server: ilp-dbapp-81
+2025-03-14 09:05:53,959 - ERROR - Error checking if server ilp-dbapp-81 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,959 - ERROR - Error inserting data for server ilp-dbapp-81: no such table: tab_main_resp_server
+2025-03-14 09:05:53,959 - INFO - Processing server: ilp-webct-82
+2025-03-14 09:05:53,960 - ERROR - Error checking if server ilp-webct-82 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,960 - ERROR - Error inserting data for server ilp-webct-82: no such table: tab_main_resp_server
+2025-03-14 09:05:53,960 - INFO - Processing server: ilp-authsv-83
+2025-03-14 09:05:53,960 - ERROR - Error checking if server ilp-authsv-83 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,960 - ERROR - Error inserting data for server ilp-authsv-83: no such table: tab_main_resp_server
+2025-03-14 09:05:53,960 - INFO - Processing server: ilp-cachsv-84
+2025-03-14 09:05:53,960 - ERROR - Error checking if server ilp-cachsv-84 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,960 - ERROR - Error inserting data for server ilp-cachsv-84: no such table: tab_main_resp_server
+2025-03-14 09:05:53,960 - INFO - Processing server: ilp-backsv-85
+2025-03-14 09:05:53,961 - ERROR - Error checking if server ilp-backsv-85 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,961 - ERROR - Error inserting data for server ilp-backsv-85: no such table: tab_main_resp_server
+2025-03-14 09:05:53,961 - INFO - Processing server: ilp-appsv-86
+2025-03-14 09:05:53,961 - ERROR - Error checking if server ilp-appsv-86 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,961 - ERROR - Error inserting data for server ilp-appsv-86: no such table: tab_main_resp_server
+2025-03-14 09:05:53,961 - INFO - Processing server: ilp-dbsv-87
+2025-03-14 09:05:53,961 - ERROR - Error checking if server ilp-dbsv-87 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,961 - ERROR - Error inserting data for server ilp-dbsv-87: no such table: tab_main_resp_server
+2025-03-14 09:05:53,961 - INFO - Processing server: ilp-proxsv-88
+2025-03-14 09:05:53,962 - ERROR - Error checking if server ilp-proxsv-88 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,962 - ERROR - Error inserting data for server ilp-proxsv-88: no such table: tab_main_resp_server
+2025-03-14 09:05:53,962 - INFO - Processing server: ilp-logsv-89
+2025-03-14 09:05:53,962 - ERROR - Error checking if server ilp-logsv-89 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,962 - ERROR - Error inserting data for server ilp-logsv-89: no such table: tab_main_resp_server
+2025-03-14 09:05:53,962 - INFO - Processing server: ilp-monitr-90
+2025-03-14 09:05:53,962 - ERROR - Error checking if server ilp-monitr-90 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,962 - ERROR - Error inserting data for server ilp-monitr-90: no such table: tab_main_resp_server
+2025-03-14 09:05:53,962 - INFO - Processing server: ilp-dbapp-91
+2025-03-14 09:05:53,963 - ERROR - Error checking if server ilp-dbapp-91 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,963 - ERROR - Error inserting data for server ilp-dbapp-91: no such table: tab_main_resp_server
+2025-03-14 09:05:53,963 - INFO - Processing server: ilp-webct-92
+2025-03-14 09:05:53,963 - ERROR - Error checking if server ilp-webct-92 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,963 - ERROR - Error inserting data for server ilp-webct-92: no such table: tab_main_resp_server
+2025-03-14 09:05:53,963 - INFO - Processing server: ilp-authsv-93
+2025-03-14 09:05:53,963 - ERROR - Error checking if server ilp-authsv-93 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,963 - ERROR - Error inserting data for server ilp-authsv-93: no such table: tab_main_resp_server
+2025-03-14 09:05:53,963 - INFO - Processing server: ilp-cachsv-94
+2025-03-14 09:05:53,964 - ERROR - Error checking if server ilp-cachsv-94 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,964 - ERROR - Error inserting data for server ilp-cachsv-94: no such table: tab_main_resp_server
+2025-03-14 09:05:53,964 - INFO - Processing server: ilp-backsv-95
+2025-03-14 09:05:53,964 - ERROR - Error checking if server ilp-backsv-95 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,964 - ERROR - Error inserting data for server ilp-backsv-95: no such table: tab_main_resp_server
+2025-03-14 09:05:53,964 - INFO - Processing server: ilp-appsv-96
+2025-03-14 09:05:53,964 - ERROR - Error checking if server ilp-appsv-96 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,964 - ERROR - Error inserting data for server ilp-appsv-96: no such table: tab_main_resp_server
+2025-03-14 09:05:53,964 - INFO - Processing server: ilp-dbsv-97
+2025-03-14 09:05:53,965 - ERROR - Error checking if server ilp-dbsv-97 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,965 - ERROR - Error inserting data for server ilp-dbsv-97: no such table: tab_main_resp_server
+2025-03-14 09:05:53,965 - INFO - Processing server: ilp-proxsv-98
+2025-03-14 09:05:53,965 - ERROR - Error checking if server ilp-proxsv-98 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,965 - ERROR - Error inserting data for server ilp-proxsv-98: no such table: tab_main_resp_server
+2025-03-14 09:05:53,965 - INFO - Processing server: ilp-logsv-99
+2025-03-14 09:05:53,965 - ERROR - Error checking if server ilp-logsv-99 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,965 - ERROR - Error inserting data for server ilp-logsv-99: no such table: tab_main_resp_server
+2025-03-14 09:05:53,966 - INFO - Processing server: ilp-monitr-100
+2025-03-14 09:05:53,966 - ERROR - Error checking if server ilp-monitr-100 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,966 - ERROR - Error inserting data for server ilp-monitr-100: no such table: tab_main_resp_server
+2025-03-14 09:05:53,966 - INFO - Processing server: ilp-dbapp-101
+2025-03-14 09:05:53,966 - ERROR - Error checking if server ilp-dbapp-101 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,966 - ERROR - Error inserting data for server ilp-dbapp-101: no such table: tab_main_resp_server
+2025-03-14 09:05:53,966 - INFO - Processing server: ilp-webct-102
+2025-03-14 09:05:53,966 - ERROR - Error checking if server ilp-webct-102 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,966 - ERROR - Error inserting data for server ilp-webct-102: no such table: tab_main_resp_server
+2025-03-14 09:05:53,966 - INFO - Processing server: ilp-authsv-103
+2025-03-14 09:05:53,967 - ERROR - Error checking if server ilp-authsv-103 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,967 - ERROR - Error inserting data for server ilp-authsv-103: no such table: tab_main_resp_server
+2025-03-14 09:05:53,967 - INFO - Processing server: ilp-cachsv-104
+2025-03-14 09:05:53,967 - ERROR - Error checking if server ilp-cachsv-104 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,967 - ERROR - Error inserting data for server ilp-cachsv-104: no such table: tab_main_resp_server
+2025-03-14 09:05:53,967 - INFO - Processing server: ilp-backsv-105
+2025-03-14 09:05:53,968 - ERROR - Error checking if server ilp-backsv-105 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,968 - ERROR - Error inserting data for server ilp-backsv-105: no such table: tab_main_resp_server
+2025-03-14 09:05:53,968 - INFO - Processing server: ilp-appsv-106
+2025-03-14 09:05:53,968 - ERROR - Error checking if server ilp-appsv-106 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,968 - ERROR - Error inserting data for server ilp-appsv-106: no such table: tab_main_resp_server
+2025-03-14 09:05:53,968 - INFO - Processing server: ilp-dbsv-107
+2025-03-14 09:05:53,968 - ERROR - Error checking if server ilp-dbsv-107 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,968 - ERROR - Error inserting data for server ilp-dbsv-107: no such table: tab_main_resp_server
+2025-03-14 09:05:53,968 - INFO - Processing server: ilp-proxsv-108
+2025-03-14 09:05:53,969 - ERROR - Error checking if server ilp-proxsv-108 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,969 - ERROR - Error inserting data for server ilp-proxsv-108: no such table: tab_main_resp_server
+2025-03-14 09:05:53,969 - INFO - Processing server: ilp-logsv-109
+2025-03-14 09:05:53,969 - ERROR - Error checking if server ilp-logsv-109 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,969 - ERROR - Error inserting data for server ilp-logsv-109: no such table: tab_main_resp_server
+2025-03-14 09:05:53,969 - INFO - Processing server: ilp-monitr-110
+2025-03-14 09:05:53,969 - ERROR - Error checking if server ilp-monitr-110 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,969 - ERROR - Error inserting data for server ilp-monitr-110: no such table: tab_main_resp_server
+2025-03-14 09:05:53,969 - INFO - Processing server: ilp-dbapp-111
+2025-03-14 09:05:53,970 - ERROR - Error checking if server ilp-dbapp-111 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,970 - ERROR - Error inserting data for server ilp-dbapp-111: no such table: tab_main_resp_server
+2025-03-14 09:05:53,970 - INFO - Processing server: ilp-webct-112
+2025-03-14 09:05:53,970 - ERROR - Error checking if server ilp-webct-112 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,970 - ERROR - Error inserting data for server ilp-webct-112: no such table: tab_main_resp_server
+2025-03-14 09:05:53,970 - INFO - Processing server: ilp-authsv-113
+2025-03-14 09:05:53,970 - ERROR - Error checking if server ilp-authsv-113 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,970 - ERROR - Error inserting data for server ilp-authsv-113: no such table: tab_main_resp_server
+2025-03-14 09:05:53,970 - INFO - Processing server: ilp-cachsv-114
+2025-03-14 09:05:53,971 - ERROR - Error checking if server ilp-cachsv-114 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,971 - ERROR - Error inserting data for server ilp-cachsv-114: no such table: tab_main_resp_server
+2025-03-14 09:05:53,971 - INFO - Processing server: ilp-backsv-115
+2025-03-14 09:05:53,971 - ERROR - Error checking if server ilp-backsv-115 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,971 - ERROR - Error inserting data for server ilp-backsv-115: no such table: tab_main_resp_server
+2025-03-14 09:05:53,971 - INFO - Processing server: ilp-appsv-116
+2025-03-14 09:05:53,971 - ERROR - Error checking if server ilp-appsv-116 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,971 - ERROR - Error inserting data for server ilp-appsv-116: no such table: tab_main_resp_server
+2025-03-14 09:05:53,972 - INFO - Processing server: ilp-dbsv-117
+2025-03-14 09:05:53,972 - ERROR - Error checking if server ilp-dbsv-117 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,972 - ERROR - Error inserting data for server ilp-dbsv-117: no such table: tab_main_resp_server
+2025-03-14 09:05:53,972 - INFO - Processing server: ilp-proxsv-118
+2025-03-14 09:05:53,972 - ERROR - Error checking if server ilp-proxsv-118 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,972 - ERROR - Error inserting data for server ilp-proxsv-118: no such table: tab_main_resp_server
+2025-03-14 09:05:53,972 - INFO - Processing server: ilp-logsv-119
+2025-03-14 09:05:53,972 - ERROR - Error checking if server ilp-logsv-119 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,973 - ERROR - Error inserting data for server ilp-logsv-119: no such table: tab_main_resp_server
+2025-03-14 09:05:53,973 - INFO - Processing server: ilp-monitr-120
+2025-03-14 09:05:53,973 - ERROR - Error checking if server ilp-monitr-120 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,973 - ERROR - Error inserting data for server ilp-monitr-120: no such table: tab_main_resp_server
+2025-03-14 09:05:53,973 - INFO - Processing server: ilp-dbapp-121
+2025-03-14 09:05:53,973 - ERROR - Error checking if server ilp-dbapp-121 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,973 - ERROR - Error inserting data for server ilp-dbapp-121: no such table: tab_main_resp_server
+2025-03-14 09:05:53,973 - INFO - Processing server: ilp-webct-122
+2025-03-14 09:05:53,973 - ERROR - Error checking if server ilp-webct-122 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,974 - ERROR - Error inserting data for server ilp-webct-122: no such table: tab_main_resp_server
+2025-03-14 09:05:53,974 - INFO - Processing server: ilp-authsv-123
+2025-03-14 09:05:53,974 - ERROR - Error checking if server ilp-authsv-123 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,974 - ERROR - Error inserting data for server ilp-authsv-123: no such table: tab_main_resp_server
+2025-03-14 09:05:53,974 - INFO - Processing server: ilp-cachsv-124
+2025-03-14 09:05:53,974 - ERROR - Error checking if server ilp-cachsv-124 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,974 - ERROR - Error inserting data for server ilp-cachsv-124: no such table: tab_main_resp_server
+2025-03-14 09:05:53,974 - INFO - Processing server: ilp-backsv-125
+2025-03-14 09:05:53,974 - ERROR - Error checking if server ilp-backsv-125 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,975 - ERROR - Error inserting data for server ilp-backsv-125: no such table: tab_main_resp_server
+2025-03-14 09:05:53,975 - INFO - Processing server: ilp-appsv-126
+2025-03-14 09:05:53,975 - ERROR - Error checking if server ilp-appsv-126 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,975 - ERROR - Error inserting data for server ilp-appsv-126: no such table: tab_main_resp_server
+2025-03-14 09:05:53,975 - INFO - Processing server: ilp-dbsv-127
+2025-03-14 09:05:53,975 - ERROR - Error checking if server ilp-dbsv-127 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,975 - ERROR - Error inserting data for server ilp-dbsv-127: no such table: tab_main_resp_server
+2025-03-14 09:05:53,975 - INFO - Processing server: ilp-proxsv-128
+2025-03-14 09:05:53,975 - ERROR - Error checking if server ilp-proxsv-128 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,976 - ERROR - Error inserting data for server ilp-proxsv-128: no such table: tab_main_resp_server
+2025-03-14 09:05:53,976 - INFO - Processing server: ilp-logsv-129
+2025-03-14 09:05:53,976 - ERROR - Error checking if server ilp-logsv-129 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,976 - ERROR - Error inserting data for server ilp-logsv-129: no such table: tab_main_resp_server
+2025-03-14 09:05:53,976 - INFO - Processing server: ilp-monitr-130
+2025-03-14 09:05:53,976 - ERROR - Error checking if server ilp-monitr-130 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,976 - ERROR - Error inserting data for server ilp-monitr-130: no such table: tab_main_resp_server
+2025-03-14 09:05:53,976 - INFO - Processing server: ilp-dbapp-131
+2025-03-14 09:05:53,977 - ERROR - Error checking if server ilp-dbapp-131 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,977 - ERROR - Error inserting data for server ilp-dbapp-131: no such table: tab_main_resp_server
+2025-03-14 09:05:53,977 - INFO - Processing server: ilp-webct-132
+2025-03-14 09:05:53,977 - ERROR - Error checking if server ilp-webct-132 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,977 - ERROR - Error inserting data for server ilp-webct-132: no such table: tab_main_resp_server
+2025-03-14 09:05:53,977 - INFO - Processing server: ilp-authsv-133
+2025-03-14 09:05:53,977 - ERROR - Error checking if server ilp-authsv-133 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,977 - ERROR - Error inserting data for server ilp-authsv-133: no such table: tab_main_resp_server
+2025-03-14 09:05:53,977 - INFO - Processing server: ilp-cachsv-134
+2025-03-14 09:05:53,978 - ERROR - Error checking if server ilp-cachsv-134 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,978 - ERROR - Error inserting data for server ilp-cachsv-134: no such table: tab_main_resp_server
+2025-03-14 09:05:53,978 - INFO - Processing server: ilp-backsv-135
+2025-03-14 09:05:53,978 - ERROR - Error checking if server ilp-backsv-135 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,978 - ERROR - Error inserting data for server ilp-backsv-135: no such table: tab_main_resp_server
+2025-03-14 09:05:53,978 - INFO - Processing server: ilp-appsv-136
+2025-03-14 09:05:53,978 - ERROR - Error checking if server ilp-appsv-136 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,978 - ERROR - Error inserting data for server ilp-appsv-136: no such table: tab_main_resp_server
+2025-03-14 09:05:53,978 - INFO - Processing server: ilp-dbsv-137
+2025-03-14 09:05:53,979 - ERROR - Error checking if server ilp-dbsv-137 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,979 - ERROR - Error inserting data for server ilp-dbsv-137: no such table: tab_main_resp_server
+2025-03-14 09:05:53,979 - INFO - Processing server: ilp-proxsv-138
+2025-03-14 09:05:53,979 - ERROR - Error checking if server ilp-proxsv-138 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,979 - ERROR - Error inserting data for server ilp-proxsv-138: no such table: tab_main_resp_server
+2025-03-14 09:05:53,979 - INFO - Processing server: ilp-logsv-139
+2025-03-14 09:05:53,979 - ERROR - Error checking if server ilp-logsv-139 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,979 - ERROR - Error inserting data for server ilp-logsv-139: no such table: tab_main_resp_server
+2025-03-14 09:05:53,979 - INFO - Processing server: ilp-monitr-140
+2025-03-14 09:05:53,980 - ERROR - Error checking if server ilp-monitr-140 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,980 - ERROR - Error inserting data for server ilp-monitr-140: no such table: tab_main_resp_server
+2025-03-14 09:05:53,980 - INFO - Processing server: ilp-dbapp-141
+2025-03-14 09:05:53,980 - ERROR - Error checking if server ilp-dbapp-141 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,980 - ERROR - Error inserting data for server ilp-dbapp-141: no such table: tab_main_resp_server
+2025-03-14 09:05:53,980 - INFO - Processing server: ilp-webct-142
+2025-03-14 09:05:53,980 - ERROR - Error checking if server ilp-webct-142 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,980 - ERROR - Error inserting data for server ilp-webct-142: no such table: tab_main_resp_server
+2025-03-14 09:05:53,980 - INFO - Processing server: ilp-authsv-143
+2025-03-14 09:05:53,981 - ERROR - Error checking if server ilp-authsv-143 exists: no such table: tab_main_resp_server
+2025-03-14 09:05:53,981 - ERROR - Error inserting data for server ilp-authsv-143: no such table: tab_main_resp_server
+2025-03-14 09:05:53,981 - INFO - Processing complete. Servers processed: 143, Servers added: 0
+2025-03-14 09:05:53,981 - INFO - Script execution completed
+2025-03-14 09:06:40,656 - INFO - Starting script execution
+2025-03-14 09:06:40,656 - INFO - Working directory: /opt/github_public_repo/Audit-Collections-Users-Linux/python_handler/responsibility_list_pars
+2025-03-14 09:06:40,656 - INFO - Connected to database: untitled.db
+2025-03-14 09:06:40,657 - INFO - Processing server: ilp-dbapp-01
+2025-03-14 09:06:40,657 - INFO - Server ilp-dbapp-01 already exists in database, skipping
+2025-03-14 09:06:40,657 - INFO - Processing server: ilp-webct-03
+2025-03-14 09:06:40,657 - INFO - Server ilp-webct-03 already exists in database, skipping
+2025-03-14 09:06:40,657 - INFO - Processing server: ilp-authsv-05
+2025-03-14 09:06:40,658 - INFO - Server ilp-authsv-05 already exists in database, skipping
+2025-03-14 09:06:40,658 - INFO - Processing server: ilp-cachsv-02
+2025-03-14 09:06:40,658 - INFO - Server ilp-cachsv-02 already exists in database, skipping
+2025-03-14 09:06:40,658 - INFO - Processing server: ilp-backsv-04
+2025-03-14 09:06:40,658 - INFO - Server ilp-backsv-04 already exists in database, skipping
+2025-03-14 09:06:40,659 - INFO - Processing server: ilp-appsv-06
+2025-03-14 09:06:40,659 - INFO - Server ilp-appsv-06 already exists in database, skipping
+2025-03-14 09:06:40,659 - INFO - Processing server: ilp-dbsv-07
+2025-03-14 09:06:40,659 - INFO - Server ilp-dbsv-07 already exists in database, skipping
+2025-03-14 09:06:40,659 - INFO - Processing server: ilp-proxsv-08
+2025-03-14 09:06:40,659 - INFO - Server ilp-proxsv-08 already exists in database, skipping
+2025-03-14 09:06:40,659 - INFO - Processing server: ilp-logsv-09
+2025-03-14 09:06:40,660 - INFO - Server ilp-logsv-09 already exists in database, skipping
+2025-03-14 09:06:40,660 - INFO - Processing server: ilp-monitr-10
+2025-03-14 09:06:40,660 - INFO - Server ilp-monitr-10 already exists in database, skipping
+2025-03-14 09:06:40,660 - INFO - Processing server: ilp-dbapp-11
+2025-03-14 09:06:40,660 - INFO - Server ilp-dbapp-11 already exists in database, skipping
+2025-03-14 09:06:40,660 - INFO - Processing server: ilp-webct-12
+2025-03-14 09:06:40,661 - INFO - Server ilp-webct-12 already exists in database, skipping
+2025-03-14 09:06:40,661 - INFO - Processing server: ilp-authsv-13
+2025-03-14 09:06:40,661 - INFO - Server ilp-authsv-13 already exists in database, skipping
+2025-03-14 09:06:40,661 - INFO - Processing server: ilp-cachsv-14
+2025-03-14 09:06:40,661 - INFO - Server ilp-cachsv-14 already exists in database, skipping
+2025-03-14 09:06:40,661 - INFO - Processing server: ilp-backsv-15
+2025-03-14 09:06:40,661 - INFO - Server ilp-backsv-15 already exists in database, skipping
+2025-03-14 09:06:40,662 - INFO - Processing server: ilp-appsv-16
+2025-03-14 09:06:40,662 - INFO - Server ilp-appsv-16 already exists in database, skipping
+2025-03-14 09:06:40,662 - INFO - Processing server: ilp-dbsv-17
+2025-03-14 09:06:40,662 - INFO - Server ilp-dbsv-17 already exists in database, skipping
+2025-03-14 09:06:40,662 - INFO - Processing server: ilp-proxsv-18
+2025-03-14 09:06:40,662 - INFO - Server ilp-proxsv-18 already exists in database, skipping
+2025-03-14 09:06:40,662 - INFO - Processing server: ilp-logsv-19
+2025-03-14 09:06:40,663 - INFO - Server ilp-logsv-19 already exists in database, skipping
+2025-03-14 09:06:40,663 - INFO - Processing server: ilp-monitr-20
+2025-03-14 09:06:40,663 - INFO - Server ilp-monitr-20 already exists in database, skipping
+2025-03-14 09:06:40,663 - INFO - Processing server: ilp-dbapp-21
+2025-03-14 09:06:40,663 - INFO - Server ilp-dbapp-21 already exists in database, skipping
+2025-03-14 09:06:40,663 - INFO - Processing server: ilp-webct-22
+2025-03-14 09:06:40,663 - INFO - Server ilp-webct-22 already exists in database, skipping
+2025-03-14 09:06:40,664 - INFO - Processing server: ilp-authsv-23
+2025-03-14 09:06:40,664 - INFO - Server ilp-authsv-23 already exists in database, skipping
+2025-03-14 09:06:40,664 - INFO - Processing server: ilp-cachsv-24
+2025-03-14 09:06:40,664 - INFO - Server ilp-cachsv-24 already exists in database, skipping
+2025-03-14 09:06:40,664 - INFO - Processing server: ilp-backsv-25
+2025-03-14 09:06:40,664 - INFO - Server ilp-backsv-25 already exists in database, skipping
+2025-03-14 09:06:40,664 - INFO - Processing server: ilp-appsv-26
+2025-03-14 09:06:40,665 - INFO - Server ilp-appsv-26 already exists in database, skipping
+2025-03-14 09:06:40,665 - INFO - Processing server: ilp-dbsv-27
+2025-03-14 09:06:40,665 - INFO - Server ilp-dbsv-27 already exists in database, skipping
+2025-03-14 09:06:40,665 - INFO - Processing server: ilp-proxsv-28
+2025-03-14 09:06:40,665 - INFO - Server ilp-proxsv-28 already exists in database, skipping
+2025-03-14 09:06:40,665 - INFO - Processing server: ilp-logsv-29
+2025-03-14 09:06:40,666 - INFO - Server ilp-logsv-29 already exists in database, skipping
+2025-03-14 09:06:40,666 - INFO - Processing server: ilp-monitr-30
+2025-03-14 09:06:40,666 - INFO - Server ilp-monitr-30 already exists in database, skipping
+2025-03-14 09:06:40,666 - INFO - Processing server: ilp-dbapp-31
+2025-03-14 09:06:40,666 - INFO - Server ilp-dbapp-31 already exists in database, skipping
+2025-03-14 09:06:40,666 - INFO - Processing server: ilp-webct-32
+2025-03-14 09:06:40,666 - INFO - Server ilp-webct-32 already exists in database, skipping
+2025-03-14 09:06:40,667 - INFO - Processing server: ilp-authsv-33
+2025-03-14 09:06:40,667 - INFO - Server ilp-authsv-33 already exists in database, skipping
+2025-03-14 09:06:40,667 - INFO - Processing server: ilp-cachsv-34
+2025-03-14 09:06:40,667 - INFO - Server ilp-cachsv-34 already exists in database, skipping
+2025-03-14 09:06:40,667 - INFO - Processing server: ilp-backsv-35
+2025-03-14 09:06:40,667 - INFO - Server ilp-backsv-35 already exists in database, skipping
+2025-03-14 09:06:40,667 - INFO - Processing server: ilp-appsv-36
+2025-03-14 09:06:40,668 - INFO - Server ilp-appsv-36 already exists in database, skipping
+2025-03-14 09:06:40,668 - INFO - Processing server: ilp-dbsv-37
+2025-03-14 09:06:40,668 - INFO - Server ilp-dbsv-37 already exists in database, skipping
+2025-03-14 09:06:40,668 - INFO - Processing server: ilp-proxsv-38
+2025-03-14 09:06:40,668 - INFO - Server ilp-proxsv-38 already exists in database, skipping
+2025-03-14 09:06:40,668 - INFO - Processing server: ilp-logsv-39
+2025-03-14 09:06:40,668 - INFO - Server ilp-logsv-39 already exists in database, skipping
+2025-03-14 09:06:40,669 - INFO - Processing server: ilp-monitr-40
+2025-03-14 09:06:40,669 - INFO - Server ilp-monitr-40 already exists in database, skipping
+2025-03-14 09:06:40,669 - INFO - Processing server: ilp-dbapp-41
+2025-03-14 09:06:40,669 - INFO - Server ilp-dbapp-41 already exists in database, skipping
+2025-03-14 09:06:40,669 - INFO - Processing server: ilp-webct-42
+2025-03-14 09:06:40,669 - INFO - Server ilp-webct-42 already exists in database, skipping
+2025-03-14 09:06:40,669 - INFO - Processing server: ilp-authsv-43
+2025-03-14 09:06:40,670 - INFO - Server ilp-authsv-43 already exists in database, skipping
+2025-03-14 09:06:40,670 - INFO - Processing server: ilp-cachsv-44
+2025-03-14 09:06:40,670 - INFO - Server ilp-cachsv-44 already exists in database, skipping
+2025-03-14 09:06:40,670 - INFO - Processing server: ilp-backsv-45
+2025-03-14 09:06:40,670 - INFO - Server ilp-backsv-45 already exists in database, skipping
+2025-03-14 09:06:40,670 - INFO - Processing server: ilp-appsv-46
+2025-03-14 09:06:40,670 - INFO - Server ilp-appsv-46 already exists in database, skipping
+2025-03-14 09:06:40,671 - INFO - Processing server: ilp-dbsv-47
+2025-03-14 09:06:40,671 - INFO - Server ilp-dbsv-47 already exists in database, skipping
+2025-03-14 09:06:40,671 - INFO - Processing server: ilp-proxsv-48
+2025-03-14 09:06:40,671 - INFO - Server ilp-proxsv-48 already exists in database, skipping
+2025-03-14 09:06:40,671 - INFO - Processing server: ilp-logsv-49
+2025-03-14 09:06:40,671 - INFO - Server ilp-logsv-49 already exists in database, skipping
+2025-03-14 09:06:40,671 - INFO - Processing server: ilp-monitr-50
+2025-03-14 09:06:40,672 - INFO - Server ilp-monitr-50 already exists in database, skipping
+2025-03-14 09:06:40,672 - INFO - Processing server: ilp-dbapp-51
+2025-03-14 09:06:40,672 - INFO - Server ilp-dbapp-51 already exists in database, skipping
+2025-03-14 09:06:40,672 - INFO - Processing server: ilp-webct-52
+2025-03-14 09:06:40,672 - INFO - Server ilp-webct-52 already exists in database, skipping
+2025-03-14 09:06:40,672 - INFO - Processing server: ilp-authsv-53
+2025-03-14 09:06:40,672 - INFO - Server ilp-authsv-53 already exists in database, skipping
+2025-03-14 09:06:40,673 - INFO - Processing server: ilp-cachsv-54
+2025-03-14 09:06:40,673 - INFO - Server ilp-cachsv-54 already exists in database, skipping
+2025-03-14 09:06:40,673 - INFO - Processing server: ilp-backsv-55
+2025-03-14 09:06:40,673 - INFO - Server ilp-backsv-55 already exists in database, skipping
+2025-03-14 09:06:40,674 - INFO - Processing server: ilp-appsv-56
+2025-03-14 09:06:40,674 - INFO - Server ilp-appsv-56 already exists in database, skipping
+2025-03-14 09:06:40,674 - INFO - Processing server: ilp-dbsv-57
+2025-03-14 09:06:40,674 - INFO - Server ilp-dbsv-57 already exists in database, skipping
+2025-03-14 09:06:40,674 - INFO - Processing server: ilp-proxsv-58
+2025-03-14 09:06:40,675 - INFO - Server ilp-proxsv-58 already exists in database, skipping
+2025-03-14 09:06:40,675 - INFO - Processing server: ilp-logsv-59
+2025-03-14 09:06:40,675 - INFO - Server ilp-logsv-59 already exists in database, skipping
+2025-03-14 09:06:40,675 - INFO - Processing server: ilp-monitr-60
+2025-03-14 09:06:40,675 - INFO - Server ilp-monitr-60 already exists in database, skipping
+2025-03-14 09:06:40,675 - INFO - Processing server: ilp-dbapp-61
+2025-03-14 09:06:40,676 - INFO - Server ilp-dbapp-61 already exists in database, skipping
+2025-03-14 09:06:40,676 - INFO - Processing server: ilp-webct-62
+2025-03-14 09:06:40,676 - INFO - Server ilp-webct-62 already exists in database, skipping
+2025-03-14 09:06:40,676 - INFO - Processing server: ilp-authsv-63
+2025-03-14 09:06:40,676 - INFO - Server ilp-authsv-63 already exists in database, skipping
+2025-03-14 09:06:40,676 - INFO - Processing server: ilp-cachsv-64
+2025-03-14 09:06:40,676 - INFO - Server ilp-cachsv-64 already exists in database, skipping
+2025-03-14 09:06:40,677 - INFO - Processing server: ilp-backsv-65
+2025-03-14 09:06:40,677 - INFO - Server ilp-backsv-65 already exists in database, skipping
+2025-03-14 09:06:40,677 - INFO - Processing server: ilp-appsv-66
+2025-03-14 09:06:40,677 - INFO - Server ilp-appsv-66 already exists in database, skipping
+2025-03-14 09:06:40,677 - INFO - Processing server: ilp-dbsv-67
+2025-03-14 09:06:40,677 - INFO - Server ilp-dbsv-67 already exists in database, skipping
+2025-03-14 09:06:40,678 - INFO - Processing server: ilp-proxsv-68
+2025-03-14 09:06:40,678 - INFO - Server ilp-proxsv-68 already exists in database, skipping
+2025-03-14 09:06:40,678 - INFO - Processing server: ilp-logsv-69
+2025-03-14 09:06:40,678 - INFO - Server ilp-logsv-69 already exists in database, skipping
+2025-03-14 09:06:40,678 - INFO - Processing server: ilp-monitr-70
+2025-03-14 09:06:40,679 - INFO - Server ilp-monitr-70 already exists in database, skipping
+2025-03-14 09:06:40,679 - INFO - Processing server: ilp-dbapp-71
+2025-03-14 09:06:40,679 - INFO - Server ilp-dbapp-71 already exists in database, skipping
+2025-03-14 09:06:40,679 - INFO - Processing server: ilp-webct-72
+2025-03-14 09:06:40,679 - INFO - Server ilp-webct-72 already exists in database, skipping
+2025-03-14 09:06:40,679 - INFO - Processing server: ilp-authsv-73
+2025-03-14 09:06:40,680 - INFO - Server ilp-authsv-73 already exists in database, skipping
+2025-03-14 09:06:40,680 - INFO - Processing server: ilp-cachsv-74
+2025-03-14 09:06:40,680 - INFO - Server ilp-cachsv-74 already exists in database, skipping
+2025-03-14 09:06:40,680 - INFO - Processing server: ilp-backsv-75
+2025-03-14 09:06:40,680 - INFO - Server ilp-backsv-75 already exists in database, skipping
+2025-03-14 09:06:40,680 - INFO - Processing server: ilp-appsv-76
+2025-03-14 09:06:40,681 - INFO - Server ilp-appsv-76 already exists in database, skipping
+2025-03-14 09:06:40,681 - INFO - Processing server: ilp-dbsv-77
+2025-03-14 09:06:40,681 - INFO - Server ilp-dbsv-77 already exists in database, skipping
+2025-03-14 09:06:40,681 - INFO - Processing server: ilp-proxsv-78
+2025-03-14 09:06:40,681 - INFO - Server ilp-proxsv-78 already exists in database, skipping
+2025-03-14 09:06:40,681 - INFO - Processing server: ilp-logsv-79
+2025-03-14 09:06:40,681 - INFO - Server ilp-logsv-79 already exists in database, skipping
+2025-03-14 09:06:40,682 - INFO - Processing server: ilp-monitr-80
+2025-03-14 09:06:40,682 - INFO - Server ilp-monitr-80 already exists in database, skipping
+2025-03-14 09:06:40,682 - INFO - Processing server: ilp-dbapp-81
+2025-03-14 09:06:40,682 - INFO - Server ilp-dbapp-81 already exists in database, skipping
+2025-03-14 09:06:40,682 - INFO - Processing server: ilp-webct-82
+2025-03-14 09:06:40,683 - INFO - Server ilp-webct-82 already exists in database, skipping
+2025-03-14 09:06:40,683 - INFO - Processing server: ilp-authsv-83
+2025-03-14 09:06:40,683 - INFO - Server ilp-authsv-83 already exists in database, skipping
+2025-03-14 09:06:40,683 - INFO - Processing server: ilp-cachsv-84
+2025-03-14 09:06:40,683 - INFO - Server ilp-cachsv-84 already exists in database, skipping
+2025-03-14 09:06:40,683 - INFO - Processing server: ilp-backsv-85
+2025-03-14 09:06:40,684 - INFO - Server ilp-backsv-85 already exists in database, skipping
+2025-03-14 09:06:40,684 - INFO - Processing server: ilp-appsv-86
+2025-03-14 09:06:40,684 - INFO - Server ilp-appsv-86 already exists in database, skipping
+2025-03-14 09:06:40,684 - INFO - Processing server: ilp-dbsv-87
+2025-03-14 09:06:40,684 - INFO - Server ilp-dbsv-87 already exists in database, skipping
+2025-03-14 09:06:40,684 - INFO - Processing server: ilp-proxsv-88
+2025-03-14 09:06:40,684 - INFO - Server ilp-proxsv-88 already exists in database, skipping
+2025-03-14 09:06:40,685 - INFO - Processing server: ilp-logsv-89
+2025-03-14 09:06:40,685 - INFO - Server ilp-logsv-89 already exists in database, skipping
+2025-03-14 09:06:40,685 - INFO - Processing server: ilp-monitr-90
+2025-03-14 09:06:40,685 - INFO - Server ilp-monitr-90 already exists in database, skipping
+2025-03-14 09:06:40,685 - INFO - Processing server: ilp-dbapp-91
+2025-03-14 09:06:40,685 - INFO - Server ilp-dbapp-91 already exists in database, skipping
+2025-03-14 09:06:40,685 - INFO - Processing server: ilp-webct-92
+2025-03-14 09:06:40,686 - INFO - Server ilp-webct-92 already exists in database, skipping
+2025-03-14 09:06:40,686 - INFO - Processing server: ilp-authsv-93
+2025-03-14 09:06:40,686 - INFO - Server ilp-authsv-93 already exists in database, skipping
+2025-03-14 09:06:40,686 - INFO - Processing server: ilp-cachsv-94
+2025-03-14 09:06:40,686 - INFO - Server ilp-cachsv-94 already exists in database, skipping
+2025-03-14 09:06:40,686 - INFO - Processing server: ilp-backsv-95
+2025-03-14 09:06:40,687 - INFO - Server ilp-backsv-95 already exists in database, skipping
+2025-03-14 09:06:40,687 - INFO - Processing server: ilp-appsv-96
+2025-03-14 09:06:40,687 - INFO - Server ilp-appsv-96 already exists in database, skipping
+2025-03-14 09:06:40,687 - INFO - Processing server: ilp-dbsv-97
+2025-03-14 09:06:40,687 - INFO - Server ilp-dbsv-97 already exists in database, skipping
+2025-03-14 09:06:40,687 - INFO - Processing server: ilp-proxsv-98
+2025-03-14 09:06:40,687 - INFO - Server ilp-proxsv-98 already exists in database, skipping
+2025-03-14 09:06:40,687 - INFO - Processing server: ilp-logsv-99
+2025-03-14 09:06:40,688 - INFO - Server ilp-logsv-99 already exists in database, skipping
+2025-03-14 09:06:40,688 - INFO - Processing server: ilp-monitr-100
+2025-03-14 09:06:40,688 - INFO - Server ilp-monitr-100 already exists in database, skipping
+2025-03-14 09:06:40,688 - INFO - Processing server: ilp-dbapp-101
+2025-03-14 09:06:40,688 - INFO - Server ilp-dbapp-101 already exists in database, skipping
+2025-03-14 09:06:40,688 - INFO - Processing server: ilp-webct-102
+2025-03-14 09:06:40,688 - INFO - Server ilp-webct-102 already exists in database, skipping
+2025-03-14 09:06:40,689 - INFO - Processing server: ilp-authsv-103
+2025-03-14 09:06:40,689 - INFO - Server ilp-authsv-103 already exists in database, skipping
+2025-03-14 09:06:40,689 - INFO - Processing server: ilp-cachsv-104
+2025-03-14 09:06:40,689 - INFO - Server ilp-cachsv-104 already exists in database, skipping
+2025-03-14 09:06:40,689 - INFO - Processing server: ilp-backsv-105
+2025-03-14 09:06:40,689 - INFO - Server ilp-backsv-105 already exists in database, skipping
+2025-03-14 09:06:40,689 - INFO - Processing server: ilp-appsv-106
+2025-03-14 09:06:40,690 - INFO - Server ilp-appsv-106 already exists in database, skipping
+2025-03-14 09:06:40,690 - INFO - Processing server: ilp-dbsv-107
+2025-03-14 09:06:40,690 - INFO - Server ilp-dbsv-107 already exists in database, skipping
+2025-03-14 09:06:40,690 - INFO - Processing server: ilp-proxsv-108
+2025-03-14 09:06:40,690 - INFO - Server ilp-proxsv-108 already exists in database, skipping
+2025-03-14 09:06:40,691 - INFO - Processing server: ilp-logsv-109
+2025-03-14 09:06:40,691 - INFO - Server ilp-logsv-109 already exists in database, skipping
+2025-03-14 09:06:40,691 - INFO - Processing server: ilp-monitr-110
+2025-03-14 09:06:40,691 - INFO - Server ilp-monitr-110 already exists in database, skipping
+2025-03-14 09:06:40,691 - INFO - Processing server: ilp-dbapp-111
+2025-03-14 09:06:40,691 - INFO - Server ilp-dbapp-111 already exists in database, skipping
+2025-03-14 09:06:40,691 - INFO - Processing server: ilp-webct-112
+2025-03-14 09:06:40,692 - INFO - Server ilp-webct-112 already exists in database, skipping
+2025-03-14 09:06:40,692 - INFO - Processing server: ilp-authsv-113
+2025-03-14 09:06:40,692 - INFO - Server ilp-authsv-113 already exists in database, skipping
+2025-03-14 09:06:40,692 - INFO - Processing server: ilp-cachsv-114
+2025-03-14 09:06:40,692 - INFO - Server ilp-cachsv-114 already exists in database, skipping
+2025-03-14 09:06:40,692 - INFO - Processing server: ilp-backsv-115
+2025-03-14 09:06:40,692 - INFO - Server ilp-backsv-115 already exists in database, skipping
+2025-03-14 09:06:40,692 - INFO - Processing server: ilp-appsv-116
+2025-03-14 09:06:40,693 - INFO - Server ilp-appsv-116 already exists in database, skipping
+2025-03-14 09:06:40,693 - INFO - Processing server: ilp-dbsv-117
+2025-03-14 09:06:40,693 - INFO - Server ilp-dbsv-117 already exists in database, skipping
+2025-03-14 09:06:40,693 - INFO - Processing server: ilp-proxsv-118
+2025-03-14 09:06:40,693 - INFO - Server ilp-proxsv-118 already exists in database, skipping
+2025-03-14 09:06:40,693 - INFO - Processing server: ilp-logsv-119
+2025-03-14 09:06:40,694 - INFO - Server ilp-logsv-119 already exists in database, skipping
+2025-03-14 09:06:40,694 - INFO - Processing server: ilp-monitr-120
+2025-03-14 09:06:40,694 - INFO - Server ilp-monitr-120 already exists in database, skipping
+2025-03-14 09:06:40,694 - INFO - Processing server: ilp-dbapp-121
+2025-03-14 09:06:40,694 - INFO - Server ilp-dbapp-121 already exists in database, skipping
+2025-03-14 09:06:40,694 - INFO - Processing server: ilp-webct-122
+2025-03-14 09:06:40,694 - INFO - Server ilp-webct-122 already exists in database, skipping
+2025-03-14 09:06:40,695 - INFO - Processing server: ilp-authsv-123
+2025-03-14 09:06:40,695 - INFO - Server ilp-authsv-123 already exists in database, skipping
+2025-03-14 09:06:40,695 - INFO - Processing server: ilp-cachsv-124
+2025-03-14 09:06:40,695 - INFO - Server ilp-cachsv-124 already exists in database, skipping
+2025-03-14 09:06:40,695 - INFO - Processing server: ilp-backsv-125
+2025-03-14 09:06:40,695 - INFO - Server ilp-backsv-125 already exists in database, skipping
+2025-03-14 09:06:40,695 - INFO - Processing server: ilp-appsv-126
+2025-03-14 09:06:40,696 - INFO - Server ilp-appsv-126 already exists in database, skipping
+2025-03-14 09:06:40,696 - INFO - Processing server: ilp-dbsv-127
+2025-03-14 09:06:40,696 - INFO - Server ilp-dbsv-127 already exists in database, skipping
+2025-03-14 09:06:40,696 - INFO - Processing server: ilp-proxsv-128
+2025-03-14 09:06:40,696 - INFO - Server ilp-proxsv-128 already exists in database, skipping
+2025-03-14 09:06:40,696 - INFO - Processing server: ilp-logsv-129
+2025-03-14 09:06:40,696 - INFO - Server ilp-logsv-129 already exists in database, skipping
+2025-03-14 09:06:40,697 - INFO - Processing server: ilp-monitr-130
+2025-03-14 09:06:40,697 - INFO - Server ilp-monitr-130 already exists in database, skipping
+2025-03-14 09:06:40,697 - INFO - Processing server: ilp-dbapp-131
+2025-03-14 09:06:40,697 - INFO - Server ilp-dbapp-131 already exists in database, skipping
+2025-03-14 09:06:40,697 - INFO - Processing server: ilp-webct-132
+2025-03-14 09:06:40,697 - INFO - Server ilp-webct-132 already exists in database, skipping
+2025-03-14 09:06:40,698 - INFO - Processing server: ilp-authsv-133
+2025-03-14 09:06:40,698 - INFO - Server ilp-authsv-133 already exists in database, skipping
+2025-03-14 09:06:40,698 - INFO - Processing server: ilp-cachsv-134
+2025-03-14 09:06:40,698 - INFO - Server ilp-cachsv-134 already exists in database, skipping
+2025-03-14 09:06:40,698 - INFO - Processing server: ilp-backsv-135
+2025-03-14 09:06:40,698 - INFO - Server ilp-backsv-135 already exists in database, skipping
+2025-03-14 09:06:40,698 - INFO - Processing server: ilp-appsv-136
+2025-03-14 09:06:40,699 - INFO - Server ilp-appsv-136 already exists in database, skipping
+2025-03-14 09:06:40,699 - INFO - Processing server: ilp-dbsv-137
+2025-03-14 09:06:40,699 - INFO - Server ilp-dbsv-137 already exists in database, skipping
+2025-03-14 09:06:40,699 - INFO - Processing server: ilp-proxsv-138
+2025-03-14 09:06:40,699 - INFO - Server ilp-proxsv-138 already exists in database, skipping
+2025-03-14 09:06:40,699 - INFO - Processing server: ilp-logsv-139
+2025-03-14 09:06:40,700 - INFO - Server ilp-logsv-139 already exists in database, skipping
+2025-03-14 09:06:40,700 - INFO - Processing server: ilp-monitr-140
+2025-03-14 09:06:40,700 - INFO - Server ilp-monitr-140 already exists in database, skipping
+2025-03-14 09:06:40,700 - INFO - Processing server: ilp-dbapp-141
+2025-03-14 09:06:40,700 - INFO - Server ilp-dbapp-141 already exists in database, skipping
+2025-03-14 09:06:40,700 - INFO - Processing server: ilp-webct-142
+2025-03-14 09:06:40,700 - INFO - Server ilp-webct-142 already exists in database, skipping
+2025-03-14 09:06:40,701 - INFO - Processing server: ilp-authsv-143
+2025-03-14 09:06:40,701 - INFO - Server ilp-authsv-143 already exists in database, skipping
+2025-03-14 09:06:40,701 - INFO - Processing complete. Servers processed: 143, Servers added: 0
+2025-03-14 09:06:40,701 - INFO - Script execution completed
+2025-03-14 09:07:59,393 - INFO - Starting script execution
+2025-03-14 09:07:59,393 - INFO - Working directory: /opt/github_public_repo/Audit-Collections-Users-Linux/python_handler/responsibility_list_pars
+2025-03-14 09:07:59,394 - INFO - Connected to database: untitled.db
+2025-03-14 09:07:59,394 - INFO - Processing server: ilp-dbapp-01
+2025-03-14 09:07:59,394 - INFO - Server ilp-dbapp-01 already exists in database, skipping
+2025-03-14 09:07:59,394 - INFO - Processing server: ilp-webct-03
+2025-03-14 09:07:59,395 - INFO - Server ilp-webct-03 already exists in database, skipping
+2025-03-14 09:07:59,395 - INFO - Processing server: ilp-authsv-05
+2025-03-14 09:07:59,395 - INFO - Server ilp-authsv-05 already exists in database, skipping
+2025-03-14 09:07:59,395 - INFO - Processing server: ilp-cachsv-02
+2025-03-14 09:07:59,395 - INFO - Server ilp-cachsv-02 already exists in database, skipping
+2025-03-14 09:07:59,395 - INFO - Processing server: ilp-backsv-04
+2025-03-14 09:07:59,395 - INFO - Server ilp-backsv-04 already exists in database, skipping
+2025-03-14 09:07:59,396 - INFO - Processing server: ilp-appsv-06
+2025-03-14 09:07:59,396 - INFO - Server ilp-appsv-06 already exists in database, skipping
+2025-03-14 09:07:59,396 - INFO - Processing server: ilp-dbsv-07
+2025-03-14 09:07:59,396 - INFO - Server ilp-dbsv-07 already exists in database, skipping
+2025-03-14 09:07:59,396 - INFO - Processing server: ilp-proxsv-08
+2025-03-14 09:07:59,396 - INFO - Server ilp-proxsv-08 already exists in database, skipping
+2025-03-14 09:07:59,397 - INFO - Processing server: ilp-logsv-09
+2025-03-14 09:07:59,397 - INFO - Server ilp-logsv-09 already exists in database, skipping
+2025-03-14 09:07:59,397 - INFO - Processing server: ilp-monitr-10
+2025-03-14 09:07:59,397 - INFO - Server ilp-monitr-10 already exists in database, skipping
+2025-03-14 09:07:59,397 - INFO - Processing server: ilp-dbapp-11
+2025-03-14 09:07:59,397 - INFO - Server ilp-dbapp-11 already exists in database, skipping
+2025-03-14 09:07:59,397 - INFO - Processing server: ilp-webct-12
+2025-03-14 09:07:59,398 - INFO - Server ilp-webct-12 already exists in database, skipping
+2025-03-14 09:07:59,398 - INFO - Processing server: ilp-authsv-13
+2025-03-14 09:07:59,398 - INFO - Server ilp-authsv-13 already exists in database, skipping
+2025-03-14 09:07:59,398 - INFO - Processing server: ilp-cachsv-14
+2025-03-14 09:07:59,398 - INFO - Server ilp-cachsv-14 already exists in database, skipping
+2025-03-14 09:07:59,398 - INFO - Processing server: ilp-backsv-15
+2025-03-14 09:07:59,398 - INFO - Server ilp-backsv-15 already exists in database, skipping
+2025-03-14 09:07:59,398 - INFO - Processing server: ilp-appsv-16
+2025-03-14 09:07:59,399 - INFO - Server ilp-appsv-16 already exists in database, skipping
+2025-03-14 09:07:59,399 - INFO - Processing server: ilp-dbsv-17
+2025-03-14 09:07:59,399 - INFO - Server ilp-dbsv-17 already exists in database, skipping
+2025-03-14 09:07:59,399 - INFO - Processing server: ilp-proxsv-18
+2025-03-14 09:07:59,399 - INFO - Server ilp-proxsv-18 already exists in database, skipping
+2025-03-14 09:07:59,399 - INFO - Processing server: ilp-logsv-19
+2025-03-14 09:07:59,399 - INFO - Server ilp-logsv-19 already exists in database, skipping
+2025-03-14 09:07:59,400 - INFO - Processing server: ilp-monitr-20
+2025-03-14 09:07:59,400 - INFO - Server ilp-monitr-20 already exists in database, skipping
+2025-03-14 09:07:59,400 - INFO - Processing server: ilp-dbapp-21
+2025-03-14 09:07:59,400 - INFO - Server ilp-dbapp-21 already exists in database, skipping
+2025-03-14 09:07:59,400 - INFO - Processing server: ilp-webct-22
+2025-03-14 09:07:59,400 - INFO - Server ilp-webct-22 already exists in database, skipping
+2025-03-14 09:07:59,400 - INFO - Processing server: ilp-authsv-23
+2025-03-14 09:07:59,401 - INFO - Server ilp-authsv-23 already exists in database, skipping
+2025-03-14 09:07:59,401 - INFO - Processing server: ilp-cachsv-24
+2025-03-14 09:07:59,401 - INFO - Server ilp-cachsv-24 already exists in database, skipping
+2025-03-14 09:07:59,401 - INFO - Processing server: ilp-backsv-25
+2025-03-14 09:07:59,401 - INFO - Server ilp-backsv-25 already exists in database, skipping
+2025-03-14 09:07:59,401 - INFO - Processing server: ilp-appsv-26
+2025-03-14 09:07:59,401 - INFO - Server ilp-appsv-26 already exists in database, skipping
+2025-03-14 09:07:59,402 - INFO - Processing server: ilp-dbsv-27
+2025-03-14 09:07:59,402 - INFO - Server ilp-dbsv-27 already exists in database, skipping
+2025-03-14 09:07:59,402 - INFO - Processing server: ilp-proxsv-28
+2025-03-14 09:07:59,402 - INFO - Server ilp-proxsv-28 already exists in database, skipping
+2025-03-14 09:07:59,402 - INFO - Processing server: ilp-logsv-29
+2025-03-14 09:07:59,402 - INFO - Server ilp-logsv-29 already exists in database, skipping
+2025-03-14 09:07:59,403 - INFO - Processing server: ilp-monitr-30
+2025-03-14 09:07:59,403 - INFO - Server ilp-monitr-30 already exists in database, skipping
+2025-03-14 09:07:59,403 - INFO - Processing server: ilp-dbapp-31
+2025-03-14 09:07:59,403 - INFO - Server ilp-dbapp-31 already exists in database, skipping
+2025-03-14 09:07:59,403 - INFO - Processing server: ilp-webct-32
+2025-03-14 09:07:59,403 - INFO - Server ilp-webct-32 already exists in database, skipping
+2025-03-14 09:07:59,403 - INFO - Processing server: ilp-authsv-33
+2025-03-14 09:07:59,404 - INFO - Server ilp-authsv-33 already exists in database, skipping
+2025-03-14 09:07:59,404 - INFO - Processing server: ilp-cachsv-34
+2025-03-14 09:07:59,404 - INFO - Server ilp-cachsv-34 already exists in database, skipping
+2025-03-14 09:07:59,404 - INFO - Processing server: ilp-backsv-35
+2025-03-14 09:07:59,404 - INFO - Server ilp-backsv-35 already exists in database, skipping
+2025-03-14 09:07:59,404 - INFO - Processing server: ilp-appsv-36
+2025-03-14 09:07:59,405 - INFO - Server ilp-appsv-36 already exists in database, skipping
+2025-03-14 09:07:59,405 - INFO - Processing server: ilp-dbsv-37
+2025-03-14 09:07:59,405 - INFO - Server ilp-dbsv-37 already exists in database, skipping
+2025-03-14 09:07:59,405 - INFO - Processing server: ilp-proxsv-38
+2025-03-14 09:07:59,405 - INFO - Server ilp-proxsv-38 already exists in database, skipping
+2025-03-14 09:07:59,405 - INFO - Processing server: ilp-logsv-39
+2025-03-14 09:07:59,405 - INFO - Server ilp-logsv-39 already exists in database, skipping
+2025-03-14 09:07:59,405 - INFO - Processing server: ilp-monitr-40
+2025-03-14 09:07:59,406 - INFO - Server ilp-monitr-40 already exists in database, skipping
+2025-03-14 09:07:59,406 - INFO - Processing server: ilp-dbapp-41
+2025-03-14 09:07:59,406 - INFO - Server ilp-dbapp-41 already exists in database, skipping
+2025-03-14 09:07:59,407 - INFO - Processing server: ilp-webct-42
+2025-03-14 09:07:59,407 - INFO - Server ilp-webct-42 already exists in database, skipping
+2025-03-14 09:07:59,407 - INFO - Processing server: ilp-authsv-43
+2025-03-14 09:07:59,407 - INFO - Server ilp-authsv-43 already exists in database, skipping
+2025-03-14 09:07:59,407 - INFO - Processing server: ilp-cachsv-44
+2025-03-14 09:07:59,407 - INFO - Server ilp-cachsv-44 already exists in database, skipping
+2025-03-14 09:07:59,407 - INFO - Processing server: ilp-backsv-45
+2025-03-14 09:07:59,408 - INFO - Server ilp-backsv-45 already exists in database, skipping
+2025-03-14 09:07:59,408 - INFO - Processing server: ilp-appsv-46
+2025-03-14 09:07:59,408 - INFO - Server ilp-appsv-46 already exists in database, skipping
+2025-03-14 09:07:59,408 - INFO - Processing server: ilp-dbsv-47
+2025-03-14 09:07:59,408 - INFO - Server ilp-dbsv-47 already exists in database, skipping
+2025-03-14 09:07:59,408 - INFO - Processing server: ilp-proxsv-48
+2025-03-14 09:07:59,409 - INFO - Server ilp-proxsv-48 already exists in database, skipping
+2025-03-14 09:07:59,409 - INFO - Processing server: ilp-logsv-49
+2025-03-14 09:07:59,409 - INFO - Server ilp-logsv-49 already exists in database, skipping
+2025-03-14 09:07:59,409 - INFO - Processing server: ilp-monitr-50
+2025-03-14 09:07:59,409 - INFO - Server ilp-monitr-50 already exists in database, skipping
+2025-03-14 09:07:59,409 - INFO - Processing server: ilp-dbapp-51
+2025-03-14 09:07:59,409 - INFO - Server ilp-dbapp-51 already exists in database, skipping
+2025-03-14 09:07:59,410 - INFO - Processing server: ilp-webct-52
+2025-03-14 09:07:59,410 - INFO - Server ilp-webct-52 already exists in database, skipping
+2025-03-14 09:07:59,410 - INFO - Processing server: ilp-authsv-53
+2025-03-14 09:07:59,410 - INFO - Server ilp-authsv-53 already exists in database, skipping
+2025-03-14 09:07:59,410 - INFO - Processing server: ilp-cachsv-54
+2025-03-14 09:07:59,410 - INFO - Server ilp-cachsv-54 already exists in database, skipping
+2025-03-14 09:07:59,410 - INFO - Processing server: ilp-backsv-55
+2025-03-14 09:07:59,411 - INFO - Server ilp-backsv-55 already exists in database, skipping
+2025-03-14 09:07:59,411 - INFO - Processing server: ilp-appsv-56
+2025-03-14 09:07:59,411 - INFO - Server ilp-appsv-56 already exists in database, skipping
+2025-03-14 09:07:59,411 - INFO - Processing server: ilp-dbsv-57
+2025-03-14 09:07:59,411 - INFO - Server ilp-dbsv-57 already exists in database, skipping
+2025-03-14 09:07:59,411 - INFO - Processing server: ilp-proxsv-58
+2025-03-14 09:07:59,411 - INFO - Server ilp-proxsv-58 already exists in database, skipping
+2025-03-14 09:07:59,412 - INFO - Processing server: ilp-logsv-59
+2025-03-14 09:07:59,412 - INFO - Server ilp-logsv-59 already exists in database, skipping
+2025-03-14 09:07:59,412 - INFO - Processing server: ilp-monitr-60
+2025-03-14 09:07:59,412 - INFO - Server ilp-monitr-60 already exists in database, skipping
+2025-03-14 09:07:59,412 - INFO - Processing server: ilp-dbapp-61
+2025-03-14 09:07:59,412 - INFO - Server ilp-dbapp-61 already exists in database, skipping
+2025-03-14 09:07:59,412 - INFO - Processing server: ilp-webct-62
+2025-03-14 09:07:59,413 - INFO - Server ilp-webct-62 already exists in database, skipping
+2025-03-14 09:07:59,413 - INFO - Processing server: ilp-authsv-63
+2025-03-14 09:07:59,413 - INFO - Server ilp-authsv-63 already exists in database, skipping
+2025-03-14 09:07:59,413 - INFO - Processing server: ilp-cachsv-64
+2025-03-14 09:07:59,413 - INFO - Server ilp-cachsv-64 already exists in database, skipping
+2025-03-14 09:07:59,413 - INFO - Processing server: ilp-backsv-65
+2025-03-14 09:07:59,413 - INFO - Server ilp-backsv-65 already exists in database, skipping
+2025-03-14 09:07:59,414 - INFO - Processing server: ilp-appsv-66
+2025-03-14 09:07:59,414 - INFO - Server ilp-appsv-66 already exists in database, skipping
+2025-03-14 09:07:59,414 - INFO - Processing server: ilp-dbsv-67
+2025-03-14 09:07:59,414 - INFO - Server ilp-dbsv-67 already exists in database, skipping
+2025-03-14 09:07:59,414 - INFO - Processing server: ilp-proxsv-68
+2025-03-14 09:07:59,414 - INFO - Server ilp-proxsv-68 already exists in database, skipping
+2025-03-14 09:07:59,414 - INFO - Processing server: ilp-logsv-69
+2025-03-14 09:07:59,415 - INFO - Server ilp-logsv-69 already exists in database, skipping
+2025-03-14 09:07:59,415 - INFO - Processing server: ilp-monitr-70
+2025-03-14 09:07:59,415 - INFO - Server ilp-monitr-70 already exists in database, skipping
+2025-03-14 09:07:59,415 - INFO - Processing server: ilp-dbapp-71
+2025-03-14 09:07:59,415 - INFO - Server ilp-dbapp-71 already exists in database, skipping
+2025-03-14 09:07:59,415 - INFO - Processing server: ilp-webct-72
+2025-03-14 09:07:59,416 - INFO - Server ilp-webct-72 already exists in database, skipping
+2025-03-14 09:07:59,416 - INFO - Processing server: ilp-authsv-73
+2025-03-14 09:07:59,416 - INFO - Server ilp-authsv-73 already exists in database, skipping
+2025-03-14 09:07:59,416 - INFO - Processing server: ilp-cachsv-74
+2025-03-14 09:07:59,416 - INFO - Server ilp-cachsv-74 already exists in database, skipping
+2025-03-14 09:07:59,416 - INFO - Processing server: ilp-backsv-75
+2025-03-14 09:07:59,416 - INFO - Server ilp-backsv-75 already exists in database, skipping
+2025-03-14 09:07:59,417 - INFO - Processing server: ilp-appsv-76
+2025-03-14 09:07:59,417 - INFO - Server ilp-appsv-76 already exists in database, skipping
+2025-03-14 09:07:59,417 - INFO - Processing server: ilp-dbsv-77
+2025-03-14 09:07:59,417 - INFO - Server ilp-dbsv-77 already exists in database, skipping
+2025-03-14 09:07:59,417 - INFO - Processing server: ilp-proxsv-78
+2025-03-14 09:07:59,417 - INFO - Server ilp-proxsv-78 already exists in database, skipping
+2025-03-14 09:07:59,417 - INFO - Processing server: ilp-logsv-79
+2025-03-14 09:07:59,418 - INFO - Server ilp-logsv-79 already exists in database, skipping
+2025-03-14 09:07:59,418 - INFO - Processing server: ilp-monitr-80
+2025-03-14 09:07:59,418 - INFO - Server ilp-monitr-80 already exists in database, skipping
+2025-03-14 09:07:59,418 - INFO - Processing server: ilp-dbapp-81
+2025-03-14 09:07:59,418 - INFO - Server ilp-dbapp-81 already exists in database, skipping
+2025-03-14 09:07:59,418 - INFO - Processing server: ilp-webct-82
+2025-03-14 09:07:59,419 - INFO - Server ilp-webct-82 already exists in database, skipping
+2025-03-14 09:07:59,419 - INFO - Processing server: ilp-authsv-83
+2025-03-14 09:07:59,419 - INFO - Server ilp-authsv-83 already exists in database, skipping
+2025-03-14 09:07:59,419 - INFO - Processing server: ilp-cachsv-84
+2025-03-14 09:07:59,419 - INFO - Server ilp-cachsv-84 already exists in database, skipping
+2025-03-14 09:07:59,419 - INFO - Processing server: ilp-backsv-85
+2025-03-14 09:07:59,420 - INFO - Server ilp-backsv-85 already exists in database, skipping
+2025-03-14 09:07:59,420 - INFO - Processing server: ilp-appsv-86
+2025-03-14 09:07:59,420 - INFO - Server ilp-appsv-86 already exists in database, skipping
+2025-03-14 09:07:59,420 - INFO - Processing server: ilp-dbsv-87
+2025-03-14 09:07:59,420 - INFO - Server ilp-dbsv-87 already exists in database, skipping
+2025-03-14 09:07:59,420 - INFO - Processing server: ilp-proxsv-88
+2025-03-14 09:07:59,420 - INFO - Server ilp-proxsv-88 already exists in database, skipping
+2025-03-14 09:07:59,421 - INFO - Processing server: ilp-logsv-89
+2025-03-14 09:07:59,421 - INFO - Server ilp-logsv-89 already exists in database, skipping
+2025-03-14 09:07:59,421 - INFO - Processing server: ilp-monitr-90
+2025-03-14 09:07:59,421 - INFO - Server ilp-monitr-90 already exists in database, skipping
+2025-03-14 09:07:59,421 - INFO - Processing server: ilp-dbapp-91
+2025-03-14 09:07:59,421 - INFO - Server ilp-dbapp-91 already exists in database, skipping
+2025-03-14 09:07:59,421 - INFO - Processing server: ilp-webct-92
+2025-03-14 09:07:59,422 - INFO - Server ilp-webct-92 already exists in database, skipping
+2025-03-14 09:07:59,422 - INFO - Processing server: ilp-authsv-93
+2025-03-14 09:07:59,422 - INFO - Server ilp-authsv-93 already exists in database, skipping
+2025-03-14 09:07:59,422 - INFO - Processing server: ilp-cachsv-94
+2025-03-14 09:07:59,422 - INFO - Server ilp-cachsv-94 already exists in database, skipping
+2025-03-14 09:07:59,422 - INFO - Processing server: ilp-backsv-95
+2025-03-14 09:07:59,422 - INFO - Server ilp-backsv-95 already exists in database, skipping
+2025-03-14 09:07:59,423 - INFO - Processing server: ilp-appsv-96
+2025-03-14 09:07:59,423 - INFO - Server ilp-appsv-96 already exists in database, skipping
+2025-03-14 09:07:59,423 - INFO - Processing server: ilp-dbsv-97
+2025-03-14 09:07:59,423 - INFO - Server ilp-dbsv-97 already exists in database, skipping
+2025-03-14 09:07:59,423 - INFO - Processing server: ilp-proxsv-98
+2025-03-14 09:07:59,423 - INFO - Server ilp-proxsv-98 already exists in database, skipping
+2025-03-14 09:07:59,423 - INFO - Processing server: ilp-logsv-99
+2025-03-14 09:07:59,424 - INFO - Server ilp-logsv-99 already exists in database, skipping
+2025-03-14 09:07:59,424 - INFO - Processing server: ilp-monitr-100
+2025-03-14 09:07:59,424 - INFO - Server ilp-monitr-100 already exists in database, skipping
+2025-03-14 09:07:59,424 - INFO - Processing server: ilp-dbapp-101
+2025-03-14 09:07:59,424 - INFO - Server ilp-dbapp-101 already exists in database, skipping
+2025-03-14 09:07:59,424 - INFO - Processing server: ilp-webct-102
+2025-03-14 09:07:59,424 - INFO - Server ilp-webct-102 already exists in database, skipping
+2025-03-14 09:07:59,425 - INFO - Processing server: ilp-authsv-103
+2025-03-14 09:07:59,425 - INFO - Server ilp-authsv-103 already exists in database, skipping
+2025-03-14 09:07:59,425 - INFO - Processing server: ilp-cachsv-104
+2025-03-14 09:07:59,425 - INFO - Server ilp-cachsv-104 already exists in database, skipping
+2025-03-14 09:07:59,425 - INFO - Processing server: ilp-backsv-105
+2025-03-14 09:07:59,425 - INFO - Server ilp-backsv-105 already exists in database, skipping
+2025-03-14 09:07:59,425 - INFO - Processing server: ilp-appsv-106
+2025-03-14 09:07:59,426 - INFO - Server ilp-appsv-106 already exists in database, skipping
+2025-03-14 09:07:59,426 - INFO - Processing server: ilp-dbsv-107
+2025-03-14 09:07:59,426 - INFO - Server ilp-dbsv-107 already exists in database, skipping
+2025-03-14 09:07:59,426 - INFO - Processing server: ilp-proxsv-108
+2025-03-14 09:07:59,426 - INFO - Server ilp-proxsv-108 already exists in database, skipping
+2025-03-14 09:07:59,426 - INFO - Processing server: ilp-logsv-109
+2025-03-14 09:07:59,427 - INFO - Server ilp-logsv-109 already exists in database, skipping
+2025-03-14 09:07:59,427 - INFO - Processing server: ilp-monitr-110
+2025-03-14 09:07:59,427 - INFO - Server ilp-monitr-110 already exists in database, skipping
+2025-03-14 09:07:59,427 - INFO - Processing server: ilp-dbapp-111
+2025-03-14 09:07:59,427 - INFO - Server ilp-dbapp-111 already exists in database, skipping
+2025-03-14 09:07:59,427 - INFO - Processing server: ilp-webct-112
+2025-03-14 09:07:59,427 - INFO - Server ilp-webct-112 already exists in database, skipping
+2025-03-14 09:07:59,428 - INFO - Processing server: ilp-authsv-113
+2025-03-14 09:07:59,428 - INFO - Server ilp-authsv-113 already exists in database, skipping
+2025-03-14 09:07:59,428 - INFO - Processing server: ilp-cachsv-114
+2025-03-14 09:07:59,428 - INFO - Server ilp-cachsv-114 already exists in database, skipping
+2025-03-14 09:07:59,428 - INFO - Processing server: ilp-backsv-115
+2025-03-14 09:07:59,428 - INFO - Server ilp-backsv-115 already exists in database, skipping
+2025-03-14 09:07:59,428 - INFO - Processing server: ilp-appsv-116
+2025-03-14 09:07:59,429 - INFO - Server ilp-appsv-116 already exists in database, skipping
+2025-03-14 09:07:59,429 - INFO - Processing server: ilp-dbsv-117
+2025-03-14 09:07:59,429 - INFO - Server ilp-dbsv-117 already exists in database, skipping
+2025-03-14 09:07:59,429 - INFO - Processing server: ilp-proxsv-118
+2025-03-14 09:07:59,429 - INFO - Server ilp-proxsv-118 already exists in database, skipping
+2025-03-14 09:07:59,429 - INFO - Processing server: ilp-logsv-119
+2025-03-14 09:07:59,429 - INFO - Server ilp-logsv-119 already exists in database, skipping
+2025-03-14 09:07:59,430 - INFO - Processing server: ilp-monitr-120
+2025-03-14 09:07:59,430 - INFO - Server ilp-monitr-120 already exists in database, skipping
+2025-03-14 09:07:59,430 - INFO - Processing server: ilp-dbapp-121
+2025-03-14 09:07:59,430 - INFO - Server ilp-dbapp-121 already exists in database, skipping
+2025-03-14 09:07:59,430 - INFO - Processing server: ilp-webct-122
+2025-03-14 09:07:59,430 - INFO - Server ilp-webct-122 already exists in database, skipping
+2025-03-14 09:07:59,430 - INFO - Processing server: ilp-authsv-123
+2025-03-14 09:07:59,431 - INFO - Server ilp-authsv-123 already exists in database, skipping
+2025-03-14 09:07:59,431 - INFO - Processing server: ilp-cachsv-124
+2025-03-14 09:07:59,431 - INFO - Server ilp-cachsv-124 already exists in database, skipping
+2025-03-14 09:07:59,431 - INFO - Processing server: ilp-backsv-125
+2025-03-14 09:07:59,431 - INFO - Server ilp-backsv-125 already exists in database, skipping
+2025-03-14 09:07:59,431 - INFO - Processing server: ilp-appsv-126
+2025-03-14 09:07:59,431 - INFO - Server ilp-appsv-126 already exists in database, skipping
+2025-03-14 09:07:59,432 - INFO - Processing server: ilp-dbsv-127
+2025-03-14 09:07:59,432 - INFO - Server ilp-dbsv-127 already exists in database, skipping
+2025-03-14 09:07:59,432 - INFO - Processing server: ilp-proxsv-128
+2025-03-14 09:07:59,432 - INFO - Server ilp-proxsv-128 already exists in database, skipping
+2025-03-14 09:07:59,432 - INFO - Processing server: ilp-logsv-129
+2025-03-14 09:07:59,432 - INFO - Server ilp-logsv-129 already exists in database, skipping
+2025-03-14 09:07:59,433 - INFO - Processing server: ilp-monitr-130
+2025-03-14 09:07:59,433 - INFO - Server ilp-monitr-130 already exists in database, skipping
+2025-03-14 09:07:59,433 - INFO - Processing server: ilp-dbapp-131
+2025-03-14 09:07:59,433 - INFO - Server ilp-dbapp-131 already exists in database, skipping
+2025-03-14 09:07:59,433 - INFO - Processing server: ilp-webct-132
+2025-03-14 09:07:59,434 - INFO - Server ilp-webct-132 already exists in database, skipping
+2025-03-14 09:07:59,434 - INFO - Processing server: ilp-authsv-133
+2025-03-14 09:07:59,434 - INFO - Server ilp-authsv-133 already exists in database, skipping
+2025-03-14 09:07:59,434 - INFO - Processing server: ilp-cachsv-134
+2025-03-14 09:07:59,434 - INFO - Server ilp-cachsv-134 already exists in database, skipping
+2025-03-14 09:07:59,434 - INFO - Processing server: ilp-backsv-135
+2025-03-14 09:07:59,434 - INFO - Server ilp-backsv-135 already exists in database, skipping
+2025-03-14 09:07:59,435 - INFO - Processing server: ilp-appsv-136
+2025-03-14 09:07:59,435 - INFO - Server ilp-appsv-136 already exists in database, skipping
+2025-03-14 09:07:59,435 - INFO - Processing server: ilp-dbsv-137
+2025-03-14 09:07:59,435 - INFO - Server ilp-dbsv-137 already exists in database, skipping
+2025-03-14 09:07:59,435 - INFO - Processing server: ilp-proxsv-138
+2025-03-14 09:07:59,435 - INFO - Server ilp-proxsv-138 already exists in database, skipping
+2025-03-14 09:07:59,436 - INFO - Processing server: ilp-logsv-139
+2025-03-14 09:07:59,436 - INFO - Server ilp-logsv-139 already exists in database, skipping
+2025-03-14 09:07:59,436 - INFO - Processing server: ilp-monitr-140
+2025-03-14 09:07:59,436 - INFO - Server ilp-monitr-140 already exists in database, skipping
+2025-03-14 09:07:59,436 - INFO - Processing server: ilp-dbapp-141
+2025-03-14 09:07:59,436 - INFO - Server ilp-dbapp-141 already exists in database, skipping
+2025-03-14 09:07:59,436 - INFO - Processing server: ilp-webct-142
+2025-03-14 09:07:59,437 - INFO - Server ilp-webct-142 already exists in database, skipping
+2025-03-14 09:07:59,437 - INFO - Processing server: ilp-authsv-143
+2025-03-14 09:07:59,437 - INFO - Server ilp-authsv-143 already exists in database, skipping
+2025-03-14 09:07:59,437 - INFO - Processing complete. Servers processed: 143, Servers added: 0
+2025-03-14 09:07:59,437 - INFO - Script execution completed
+2025-03-14 09:08:15,795 - INFO - Starting script execution
+2025-03-14 09:08:15,795 - INFO - Working directory: /opt/github_public_repo/Audit-Collections-Users-Linux/python_handler/responsibility_list_pars
+2025-03-14 09:08:15,795 - INFO - Connected to database: untitled.db
+2025-03-14 09:08:15,795 - INFO - Processing server: ilp-dbapp-01
+2025-03-14 09:08:15,796 - INFO - Server ilp-dbapp-01 already exists in database, skipping
+2025-03-14 09:08:15,796 - INFO - Processing server: ilp-webct-03
+2025-03-14 09:08:15,796 - INFO - Server ilp-webct-03 already exists in database, skipping
+2025-03-14 09:08:15,796 - INFO - Processing server: ilp-authsv-05
+2025-03-14 09:08:15,797 - INFO - Server ilp-authsv-05 already exists in database, skipping
+2025-03-14 09:08:15,797 - INFO - Processing server: ilp-cachsv-02
+2025-03-14 09:08:15,797 - INFO - Server ilp-cachsv-02 already exists in database, skipping
+2025-03-14 09:08:15,797 - INFO - Processing server: ilp-backsv-04
+2025-03-14 09:08:15,797 - INFO - Server ilp-backsv-04 already exists in database, skipping
+2025-03-14 09:08:15,797 - INFO - Processing server: ilp-appsv-06
+2025-03-14 09:08:15,797 - INFO - Server ilp-appsv-06 already exists in database, skipping
+2025-03-14 09:08:15,798 - INFO - Processing server: ilp-dbsv-07
+2025-03-14 09:08:15,798 - INFO - Server ilp-dbsv-07 already exists in database, skipping
+2025-03-14 09:08:15,798 - INFO - Processing server: ilp-proxsv-08
+2025-03-14 09:08:15,798 - INFO - Server ilp-proxsv-08 already exists in database, skipping
+2025-03-14 09:08:15,798 - INFO - Processing server: ilp-logsv-09
+2025-03-14 09:08:15,798 - INFO - Server ilp-logsv-09 already exists in database, skipping
+2025-03-14 09:08:15,799 - INFO - Processing server: ilp-monitr-10
+2025-03-14 09:08:15,799 - INFO - Server ilp-monitr-10 already exists in database, skipping
+2025-03-14 09:08:15,799 - INFO - Processing server: ilp-dbapp-11
+2025-03-14 09:08:15,799 - INFO - Server ilp-dbapp-11 already exists in database, skipping
+2025-03-14 09:08:15,799 - INFO - Processing server: ilp-webct-12
+2025-03-14 09:08:15,799 - INFO - Server ilp-webct-12 already exists in database, skipping
+2025-03-14 09:08:15,799 - INFO - Processing server: ilp-authsv-13
+2025-03-14 09:08:15,800 - INFO - Server ilp-authsv-13 already exists in database, skipping
+2025-03-14 09:08:15,800 - INFO - Processing server: ilp-cachsv-14
+2025-03-14 09:08:15,800 - INFO - Server ilp-cachsv-14 already exists in database, skipping
+2025-03-14 09:08:15,800 - INFO - Processing server: ilp-backsv-15
+2025-03-14 09:08:15,800 - INFO - Server ilp-backsv-15 already exists in database, skipping
+2025-03-14 09:08:15,800 - INFO - Processing server: ilp-appsv-16
+2025-03-14 09:08:15,800 - INFO - Server ilp-appsv-16 already exists in database, skipping
+2025-03-14 09:08:15,801 - INFO - Processing server: ilp-dbsv-17
+2025-03-14 09:08:15,801 - INFO - Server ilp-dbsv-17 already exists in database, skipping
+2025-03-14 09:08:15,801 - INFO - Processing server: ilp-proxsv-18
+2025-03-14 09:08:15,801 - INFO - Server ilp-proxsv-18 already exists in database, skipping
+2025-03-14 09:08:15,801 - INFO - Processing server: ilp-logsv-19
+2025-03-14 09:08:15,801 - INFO - Server ilp-logsv-19 already exists in database, skipping
+2025-03-14 09:08:15,802 - INFO - Processing server: ilp-monitr-20
+2025-03-14 09:08:15,802 - INFO - Server ilp-monitr-20 already exists in database, skipping
+2025-03-14 09:08:15,802 - INFO - Processing server: ilp-dbapp-21
+2025-03-14 09:08:15,802 - INFO - Server ilp-dbapp-21 already exists in database, skipping
+2025-03-14 09:08:15,802 - INFO - Processing server: ilp-webct-22
+2025-03-14 09:08:15,802 - INFO - Server ilp-webct-22 already exists in database, skipping
+2025-03-14 09:08:15,802 - INFO - Processing server: ilp-authsv-23
+2025-03-14 09:08:15,803 - INFO - Server ilp-authsv-23 already exists in database, skipping
+2025-03-14 09:08:15,803 - INFO - Processing server: ilp-cachsv-24
+2025-03-14 09:08:15,803 - INFO - Server ilp-cachsv-24 already exists in database, skipping
+2025-03-14 09:08:15,803 - INFO - Processing server: ilp-backsv-25
+2025-03-14 09:08:15,803 - INFO - Server ilp-backsv-25 already exists in database, skipping
+2025-03-14 09:08:15,803 - INFO - Processing server: ilp-appsv-26
+2025-03-14 09:08:15,803 - INFO - Server ilp-appsv-26 already exists in database, skipping
+2025-03-14 09:08:15,804 - INFO - Processing server: ilp-dbsv-27
+2025-03-14 09:08:15,804 - INFO - Server ilp-dbsv-27 already exists in database, skipping
+2025-03-14 09:08:15,804 - INFO - Processing server: ilp-proxsv-28
+2025-03-14 09:08:15,804 - INFO - Server ilp-proxsv-28 already exists in database, skipping
+2025-03-14 09:08:15,804 - INFO - Processing server: ilp-logsv-29
+2025-03-14 09:08:15,804 - INFO - Server ilp-logsv-29 already exists in database, skipping
+2025-03-14 09:08:15,805 - INFO - Processing server: ilp-monitr-30
+2025-03-14 09:08:15,805 - INFO - Server ilp-monitr-30 already exists in database, skipping
+2025-03-14 09:08:15,805 - INFO - Processing server: ilp-dbapp-31
+2025-03-14 09:08:15,805 - INFO - Server ilp-dbapp-31 already exists in database, skipping
+2025-03-14 09:08:15,805 - INFO - Processing server: ilp-webct-32
+2025-03-14 09:08:15,805 - INFO - Server ilp-webct-32 already exists in database, skipping
+2025-03-14 09:08:15,805 - INFO - Processing server: ilp-authsv-33
+2025-03-14 09:08:15,806 - INFO - Server ilp-authsv-33 already exists in database, skipping
+2025-03-14 09:08:15,806 - INFO - Processing server: ilp-cachsv-34
+2025-03-14 09:08:15,806 - INFO - Server ilp-cachsv-34 already exists in database, skipping
+2025-03-14 09:08:15,806 - INFO - Processing server: ilp-backsv-35
+2025-03-14 09:08:15,806 - INFO - Server ilp-backsv-35 already exists in database, skipping
+2025-03-14 09:08:15,806 - INFO - Processing server: ilp-appsv-36
+2025-03-14 09:08:15,806 - INFO - Server ilp-appsv-36 already exists in database, skipping
+2025-03-14 09:08:15,807 - INFO - Processing server: ilp-dbsv-37
+2025-03-14 09:08:15,807 - INFO - Server ilp-dbsv-37 already exists in database, skipping
+2025-03-14 09:08:15,807 - INFO - Processing server: ilp-proxsv-38
+2025-03-14 09:08:15,807 - INFO - Server ilp-proxsv-38 already exists in database, skipping
+2025-03-14 09:08:15,807 - INFO - Processing server: ilp-logsv-39
+2025-03-14 09:08:15,807 - INFO - Server ilp-logsv-39 already exists in database, skipping
+2025-03-14 09:08:15,808 - INFO - Processing server: ilp-monitr-40
+2025-03-14 09:08:15,808 - INFO - Server ilp-monitr-40 already exists in database, skipping
+2025-03-14 09:08:15,808 - INFO - Processing server: ilp-dbapp-41
+2025-03-14 09:08:15,808 - INFO - Server ilp-dbapp-41 already exists in database, skipping
+2025-03-14 09:08:15,808 - INFO - Processing server: ilp-webct-42
+2025-03-14 09:08:15,808 - INFO - Server ilp-webct-42 already exists in database, skipping
+2025-03-14 09:08:15,808 - INFO - Processing server: ilp-authsv-43
+2025-03-14 09:08:15,809 - INFO - Server ilp-authsv-43 already exists in database, skipping
+2025-03-14 09:08:15,809 - INFO - Processing server: ilp-cachsv-44
+2025-03-14 09:08:15,809 - INFO - Server ilp-cachsv-44 already exists in database, skipping
+2025-03-14 09:08:15,809 - INFO - Processing server: ilp-backsv-45
+2025-03-14 09:08:15,809 - INFO - Server ilp-backsv-45 already exists in database, skipping
+2025-03-14 09:08:15,809 - INFO - Processing server: ilp-appsv-46
+2025-03-14 09:08:15,809 - INFO - Server ilp-appsv-46 already exists in database, skipping
+2025-03-14 09:08:15,810 - INFO - Processing server: ilp-dbsv-47
+2025-03-14 09:08:15,810 - INFO - Server ilp-dbsv-47 already exists in database, skipping
+2025-03-14 09:08:15,810 - INFO - Processing server: ilp-proxsv-48
+2025-03-14 09:08:15,810 - INFO - Server ilp-proxsv-48 already exists in database, skipping
+2025-03-14 09:08:15,810 - INFO - Processing server: ilp-logsv-49
+2025-03-14 09:08:15,810 - INFO - Server ilp-logsv-49 already exists in database, skipping
+2025-03-14 09:08:15,811 - INFO - Processing server: ilp-monitr-50
+2025-03-14 09:08:15,811 - INFO - Server ilp-monitr-50 already exists in database, skipping
+2025-03-14 09:08:15,811 - INFO - Processing server: ilp-dbapp-51
+2025-03-14 09:08:15,811 - INFO - Server ilp-dbapp-51 already exists in database, skipping
+2025-03-14 09:08:15,811 - INFO - Processing server: ilp-webct-52
+2025-03-14 09:08:15,811 - INFO - Server ilp-webct-52 already exists in database, skipping
+2025-03-14 09:08:15,812 - INFO - Processing server: ilp-authsv-53
+2025-03-14 09:08:15,812 - INFO - Server ilp-authsv-53 already exists in database, skipping
+2025-03-14 09:08:15,812 - INFO - Processing server: ilp-cachsv-54
+2025-03-14 09:08:15,812 - INFO - Server ilp-cachsv-54 already exists in database, skipping
+2025-03-14 09:08:15,812 - INFO - Processing server: ilp-backsv-55
+2025-03-14 09:08:15,812 - INFO - Server ilp-backsv-55 already exists in database, skipping
+2025-03-14 09:08:15,812 - INFO - Processing server: ilp-appsv-56
+2025-03-14 09:08:15,813 - INFO - Server ilp-appsv-56 already exists in database, skipping
+2025-03-14 09:08:15,813 - INFO - Processing server: ilp-dbsv-57
+2025-03-14 09:08:15,813 - INFO - Server ilp-dbsv-57 already exists in database, skipping
+2025-03-14 09:08:15,813 - INFO - Processing server: ilp-proxsv-58
+2025-03-14 09:08:15,813 - INFO - Server ilp-proxsv-58 already exists in database, skipping
+2025-03-14 09:08:15,813 - INFO - Processing server: ilp-logsv-59
+2025-03-14 09:08:15,814 - INFO - Server ilp-logsv-59 already exists in database, skipping
+2025-03-14 09:08:15,814 - INFO - Processing server: ilp-monitr-60
+2025-03-14 09:08:15,814 - INFO - Server ilp-monitr-60 already exists in database, skipping
+2025-03-14 09:08:15,814 - INFO - Processing server: ilp-dbapp-61
+2025-03-14 09:08:15,814 - INFO - Server ilp-dbapp-61 already exists in database, skipping
+2025-03-14 09:08:15,814 - INFO - Processing server: ilp-webct-62
+2025-03-14 09:08:15,814 - INFO - Server ilp-webct-62 already exists in database, skipping
+2025-03-14 09:08:15,815 - INFO - Processing server: ilp-authsv-63
+2025-03-14 09:08:15,815 - INFO - Server ilp-authsv-63 already exists in database, skipping
+2025-03-14 09:08:15,815 - INFO - Processing server: ilp-cachsv-64
+2025-03-14 09:08:15,815 - INFO - Server ilp-cachsv-64 already exists in database, skipping
+2025-03-14 09:08:15,815 - INFO - Processing server: ilp-backsv-65
+2025-03-14 09:08:15,815 - INFO - Server ilp-backsv-65 already exists in database, skipping
+2025-03-14 09:08:15,816 - INFO - Processing server: ilp-appsv-66
+2025-03-14 09:08:15,816 - INFO - Server ilp-appsv-66 already exists in database, skipping
+2025-03-14 09:08:15,816 - INFO - Processing server: ilp-dbsv-67
+2025-03-14 09:08:15,816 - INFO - Server ilp-dbsv-67 already exists in database, skipping
+2025-03-14 09:08:15,816 - INFO - Processing server: ilp-proxsv-68
+2025-03-14 09:08:15,816 - INFO - Server ilp-proxsv-68 already exists in database, skipping
+2025-03-14 09:08:15,816 - INFO - Processing server: ilp-logsv-69
+2025-03-14 09:08:15,817 - INFO - Server ilp-logsv-69 already exists in database, skipping
+2025-03-14 09:08:15,817 - INFO - Processing server: ilp-monitr-70
+2025-03-14 09:08:15,817 - INFO - Server ilp-monitr-70 already exists in database, skipping
+2025-03-14 09:08:15,817 - INFO - Processing server: ilp-dbapp-71
+2025-03-14 09:08:15,817 - INFO - Server ilp-dbapp-71 already exists in database, skipping
+2025-03-14 09:08:15,817 - INFO - Processing server: ilp-webct-72
+2025-03-14 09:08:15,817 - INFO - Server ilp-webct-72 already exists in database, skipping
+2025-03-14 09:08:15,818 - INFO - Processing server: ilp-authsv-73
+2025-03-14 09:08:15,818 - INFO - Server ilp-authsv-73 already exists in database, skipping
+2025-03-14 09:08:15,818 - INFO - Processing server: ilp-cachsv-74
+2025-03-14 09:08:15,818 - INFO - Server ilp-cachsv-74 already exists in database, skipping
+2025-03-14 09:08:15,818 - INFO - Processing server: ilp-backsv-75
+2025-03-14 09:08:15,818 - INFO - Server ilp-backsv-75 already exists in database, skipping
+2025-03-14 09:08:15,818 - INFO - Processing server: ilp-appsv-76
+2025-03-14 09:08:15,819 - INFO - Server ilp-appsv-76 already exists in database, skipping
+2025-03-14 09:08:15,819 - INFO - Processing server: ilp-dbsv-77
+2025-03-14 09:08:15,819 - INFO - Server ilp-dbsv-77 already exists in database, skipping
+2025-03-14 09:08:15,819 - INFO - Processing server: ilp-proxsv-78
+2025-03-14 09:08:15,819 - INFO - Server ilp-proxsv-78 already exists in database, skipping
+2025-03-14 09:08:15,819 - INFO - Processing server: ilp-logsv-79
+2025-03-14 09:08:15,820 - INFO - Server ilp-logsv-79 already exists in database, skipping
+2025-03-14 09:08:15,820 - INFO - Processing server: ilp-monitr-80
+2025-03-14 09:08:15,820 - INFO - Server ilp-monitr-80 already exists in database, skipping
+2025-03-14 09:08:15,820 - INFO - Processing server: ilp-dbapp-81
+2025-03-14 09:08:15,820 - INFO - Server ilp-dbapp-81 already exists in database, skipping
+2025-03-14 09:08:15,820 - INFO - Processing server: ilp-webct-82
+2025-03-14 09:08:15,820 - INFO - Server ilp-webct-82 already exists in database, skipping
+2025-03-14 09:08:15,821 - INFO - Processing server: ilp-authsv-83
+2025-03-14 09:08:15,821 - INFO - Server ilp-authsv-83 already exists in database, skipping
+2025-03-14 09:08:15,821 - INFO - Processing server: ilp-cachsv-84
+2025-03-14 09:08:15,821 - INFO - Server ilp-cachsv-84 already exists in database, skipping
+2025-03-14 09:08:15,821 - INFO - Processing server: ilp-backsv-85
+2025-03-14 09:08:15,821 - INFO - Server ilp-backsv-85 already exists in database, skipping
+2025-03-14 09:08:15,821 - INFO - Processing server: ilp-appsv-86
+2025-03-14 09:08:15,822 - INFO - Server ilp-appsv-86 already exists in database, skipping
+2025-03-14 09:08:15,822 - INFO - Processing server: ilp-dbsv-87
+2025-03-14 09:08:15,822 - INFO - Server ilp-dbsv-87 already exists in database, skipping
+2025-03-14 09:08:15,822 - INFO - Processing server: ilp-proxsv-88
+2025-03-14 09:08:15,822 - INFO - Server ilp-proxsv-88 already exists in database, skipping
+2025-03-14 09:08:15,822 - INFO - Processing server: ilp-logsv-89
+2025-03-14 09:08:15,823 - INFO - Server ilp-logsv-89 already exists in database, skipping
+2025-03-14 09:08:15,823 - INFO - Processing server: ilp-monitr-90
+2025-03-14 09:08:15,823 - INFO - Server ilp-monitr-90 already exists in database, skipping
+2025-03-14 09:08:15,823 - INFO - Processing server: ilp-dbapp-91
+2025-03-14 09:08:15,823 - INFO - Server ilp-dbapp-91 already exists in database, skipping
+2025-03-14 09:08:15,823 - INFO - Processing server: ilp-webct-92
+2025-03-14 09:08:15,824 - INFO - Server ilp-webct-92 already exists in database, skipping
+2025-03-14 09:08:15,824 - INFO - Processing server: ilp-authsv-93
+2025-03-14 09:08:15,824 - INFO - Server ilp-authsv-93 already exists in database, skipping
+2025-03-14 09:08:15,824 - INFO - Processing server: ilp-cachsv-94
+2025-03-14 09:08:15,824 - INFO - Server ilp-cachsv-94 already exists in database, skipping
+2025-03-14 09:08:15,824 - INFO - Processing server: ilp-backsv-95
+2025-03-14 09:08:15,824 - INFO - Server ilp-backsv-95 already exists in database, skipping
+2025-03-14 09:08:15,825 - INFO - Processing server: ilp-appsv-96
+2025-03-14 09:08:15,825 - INFO - Server ilp-appsv-96 already exists in database, skipping
+2025-03-14 09:08:15,825 - INFO - Processing server: ilp-dbsv-97
+2025-03-14 09:08:15,825 - INFO - Server ilp-dbsv-97 already exists in database, skipping
+2025-03-14 09:08:15,825 - INFO - Processing server: ilp-proxsv-98
+2025-03-14 09:08:15,825 - INFO - Server ilp-proxsv-98 already exists in database, skipping
+2025-03-14 09:08:15,825 - INFO - Processing server: ilp-logsv-99
+2025-03-14 09:08:15,826 - INFO - Server ilp-logsv-99 already exists in database, skipping
+2025-03-14 09:08:15,826 - INFO - Processing server: ilp-monitr-100
+2025-03-14 09:08:15,826 - INFO - Server ilp-monitr-100 already exists in database, skipping
+2025-03-14 09:08:15,826 - INFO - Processing server: ilp-dbapp-101
+2025-03-14 09:08:15,826 - INFO - Server ilp-dbapp-101 already exists in database, skipping
+2025-03-14 09:08:15,826 - INFO - Processing server: ilp-webct-102
+2025-03-14 09:08:15,827 - INFO - Server ilp-webct-102 already exists in database, skipping
+2025-03-14 09:08:15,827 - INFO - Processing server: ilp-authsv-103
+2025-03-14 09:08:15,827 - INFO - Server ilp-authsv-103 already exists in database, skipping
+2025-03-14 09:08:15,827 - INFO - Processing server: ilp-cachsv-104
+2025-03-14 09:08:15,827 - INFO - Server ilp-cachsv-104 already exists in database, skipping
+2025-03-14 09:08:15,827 - INFO - Processing server: ilp-backsv-105
+2025-03-14 09:08:15,827 - INFO - Server ilp-backsv-105 already exists in database, skipping
+2025-03-14 09:08:15,828 - INFO - Processing server: ilp-appsv-106
+2025-03-14 09:08:15,828 - INFO - Server ilp-appsv-106 already exists in database, skipping
+2025-03-14 09:08:15,828 - INFO - Processing server: ilp-dbsv-107
+2025-03-14 09:08:15,828 - INFO - Server ilp-dbsv-107 already exists in database, skipping
+2025-03-14 09:08:15,828 - INFO - Processing server: ilp-proxsv-108
+2025-03-14 09:08:15,828 - INFO - Server ilp-proxsv-108 already exists in database, skipping
+2025-03-14 09:08:15,828 - INFO - Processing server: ilp-logsv-109
+2025-03-14 09:08:15,829 - INFO - Server ilp-logsv-109 already exists in database, skipping
+2025-03-14 09:08:15,829 - INFO - Processing server: ilp-monitr-110
+2025-03-14 09:08:15,829 - INFO - Server ilp-monitr-110 already exists in database, skipping
+2025-03-14 09:08:15,829 - INFO - Processing server: ilp-dbapp-111
+2025-03-14 09:08:15,829 - INFO - Server ilp-dbapp-111 already exists in database, skipping
+2025-03-14 09:08:15,829 - INFO - Processing server: ilp-webct-112
+2025-03-14 09:08:15,830 - INFO - Server ilp-webct-112 already exists in database, skipping
+2025-03-14 09:08:15,830 - INFO - Processing server: ilp-authsv-113
+2025-03-14 09:08:15,830 - INFO - Server ilp-authsv-113 already exists in database, skipping
+2025-03-14 09:08:15,830 - INFO - Processing server: ilp-cachsv-114
+2025-03-14 09:08:15,830 - INFO - Server ilp-cachsv-114 already exists in database, skipping
+2025-03-14 09:08:15,830 - INFO - Processing server: ilp-backsv-115
+2025-03-14 09:08:15,831 - INFO - Server ilp-backsv-115 already exists in database, skipping
+2025-03-14 09:08:15,831 - INFO - Processing server: ilp-appsv-116
+2025-03-14 09:08:15,831 - INFO - Server ilp-appsv-116 already exists in database, skipping
+2025-03-14 09:08:15,831 - INFO - Processing server: ilp-dbsv-117
+2025-03-14 09:08:15,831 - INFO - Server ilp-dbsv-117 already exists in database, skipping
+2025-03-14 09:08:15,831 - INFO - Processing server: ilp-proxsv-118
+2025-03-14 09:08:15,831 - INFO - Server ilp-proxsv-118 already exists in database, skipping
+2025-03-14 09:08:15,832 - INFO - Processing server: ilp-logsv-119
+2025-03-14 09:08:15,832 - INFO - Server ilp-logsv-119 already exists in database, skipping
+2025-03-14 09:08:15,832 - INFO - Processing server: ilp-monitr-120
+2025-03-14 09:08:15,832 - INFO - Server ilp-monitr-120 already exists in database, skipping
+2025-03-14 09:08:15,832 - INFO - Processing server: ilp-dbapp-121
+2025-03-14 09:08:15,832 - INFO - Server ilp-dbapp-121 already exists in database, skipping
+2025-03-14 09:08:15,833 - INFO - Processing server: ilp-webct-122
+2025-03-14 09:08:15,833 - INFO - Server ilp-webct-122 already exists in database, skipping
+2025-03-14 09:08:15,833 - INFO - Processing server: ilp-authsv-123
+2025-03-14 09:08:15,833 - INFO - Server ilp-authsv-123 already exists in database, skipping
+2025-03-14 09:08:15,833 - INFO - Processing server: ilp-cachsv-124
+2025-03-14 09:08:15,833 - INFO - Server ilp-cachsv-124 already exists in database, skipping
+2025-03-14 09:08:15,833 - INFO - Processing server: ilp-backsv-125
+2025-03-14 09:08:15,834 - INFO - Server ilp-backsv-125 already exists in database, skipping
+2025-03-14 09:08:15,834 - INFO - Processing server: ilp-appsv-126
+2025-03-14 09:08:15,834 - INFO - Server ilp-appsv-126 already exists in database, skipping
+2025-03-14 09:08:15,834 - INFO - Processing server: ilp-dbsv-127
+2025-03-14 09:08:15,834 - INFO - Server ilp-dbsv-127 already exists in database, skipping
+2025-03-14 09:08:15,834 - INFO - Processing server: ilp-proxsv-128
+2025-03-14 09:08:15,835 - INFO - Server ilp-proxsv-128 already exists in database, skipping
+2025-03-14 09:08:15,835 - INFO - Processing server: ilp-logsv-129
+2025-03-14 09:08:15,835 - INFO - Server ilp-logsv-129 already exists in database, skipping
+2025-03-14 09:08:15,835 - INFO - Processing server: ilp-monitr-130
+2025-03-14 09:08:15,835 - INFO - Server ilp-monitr-130 already exists in database, skipping
+2025-03-14 09:08:15,835 - INFO - Processing server: ilp-dbapp-131
+2025-03-14 09:08:15,835 - INFO - Server ilp-dbapp-131 already exists in database, skipping
+2025-03-14 09:08:15,836 - INFO - Processing server: ilp-webct-132
+2025-03-14 09:08:15,836 - INFO - Server ilp-webct-132 already exists in database, skipping
+2025-03-14 09:08:15,836 - INFO - Processing server: ilp-authsv-133
+2025-03-14 09:08:15,836 - INFO - Server ilp-authsv-133 already exists in database, skipping
+2025-03-14 09:08:15,836 - INFO - Processing server: ilp-cachsv-134
+2025-03-14 09:08:15,837 - INFO - Server ilp-cachsv-134 already exists in database, skipping
+2025-03-14 09:08:15,837 - INFO - Processing server: ilp-backsv-135
+2025-03-14 09:08:15,837 - INFO - Server ilp-backsv-135 already exists in database, skipping
+2025-03-14 09:08:15,837 - INFO - Processing server: ilp-appsv-136
+2025-03-14 09:08:15,837 - INFO - Server ilp-appsv-136 already exists in database, skipping
+2025-03-14 09:08:15,837 - INFO - Processing server: ilp-dbsv-137
+2025-03-14 09:08:15,838 - INFO - Server ilp-dbsv-137 already exists in database, skipping
+2025-03-14 09:08:15,838 - INFO - Processing server: ilp-proxsv-138
+2025-03-14 09:08:15,838 - INFO - Server ilp-proxsv-138 already exists in database, skipping
+2025-03-14 09:08:15,838 - INFO - Processing server: ilp-logsv-139
+2025-03-14 09:08:15,838 - INFO - Server ilp-logsv-139 already exists in database, skipping
+2025-03-14 09:08:15,838 - INFO - Processing server: ilp-monitr-140
+2025-03-14 09:08:15,838 - INFO - Server ilp-monitr-140 already exists in database, skipping
+2025-03-14 09:08:15,839 - INFO - Processing server: ilp-dbapp-141
+2025-03-14 09:08:15,839 - INFO - Server ilp-dbapp-141 already exists in database, skipping
+2025-03-14 09:08:15,839 - INFO - Processing server: ilp-webct-142
+2025-03-14 09:08:15,839 - INFO - Server ilp-webct-142 already exists in database, skipping
+2025-03-14 09:08:15,839 - INFO - Processing server: ilp-authsv-143
+2025-03-14 09:08:15,839 - INFO - Server ilp-authsv-143 already exists in database, skipping
+2025-03-14 09:08:15,839 - INFO - Processing complete. Servers processed: 143, Servers added: 0
+2025-03-14 09:08:15,840 - INFO - Script execution completed

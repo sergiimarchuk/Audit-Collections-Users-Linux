@@ -1,10 +1,10 @@
-#!/usr/bin/python2
+#!/usr/bin/python
 """
 This script imports server responsibility information from a text file
 and updates a SQLite database. It checks if servers already exist
 in the database before adding them.
 """
-from __future__ import print_function  # For Python 2 compatibility
+from __future__ import print_function  
 import datetime
 import sqlite3
 import os
@@ -76,7 +76,7 @@ def process_responsibility_file():
     servers_added = 0
     
     try:
-        with open(file_path, "rb") as fp:  # Using rb mode for Python 2
+        with open(file_path, "r") as fp:  
             for line_number, line in enumerate(fp, 1):
                 try:
                     # Split the line into fields
