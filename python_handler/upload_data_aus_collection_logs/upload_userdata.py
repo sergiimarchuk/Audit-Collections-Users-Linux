@@ -24,21 +24,36 @@ logging.basicConfig(
 logging.info("Starting script execution")
 
 # Configuration
-DB_NAME = 'untitled.db'  # Using original database name
+DB_NAME = '../_db/untitled.db'  # Using original database name
 REPORT_PREFIX = 'local_report'
 
 # Current directory path
 current_dir = os.getcwd()
+# Get the parent directory (one level up)
+parent_dir = os.path.dirname(current_dir)
+
+# Add the target directory (_data) to the parent directory
+target_dir = os.path.join(parent_dir, "_data")
+
 
 # Connect to database
-try:
-    conn = sqlite3.connect(os.path.join(current_dir, DB_NAME))
-    conn.text_factory = str
-    cursor = conn.cursor()
-    logging.info(f"Connected to database: {DB_NAME}")
-except sqlite3.Error as e:
-    logging.error(f"Database connection error: {e}")
-    exit(1)
+def connect_to_db():
+    db_path = os.path.join(current_dir, DB_NAME)
+    
+    # Check if the database file exists and has content
+    if not os.path.exists(db_path) or os.path.getsize(db_path) == 0:
+        logging.error(f" ! Database file does not exist or is empty: {db_path}  N. B. !: Please create db manually, just run python script which is located in dir {target_dir} with name creation_db_untitled.py")
+        return None, None, False
+        
+    try:
+        conn = sqlite3.connect(db_path)
+        conn.text_factory = str
+        cursor = conn.cursor()
+        logging.info(f"Connected to database: {DB_NAME}")
+        return conn, cursor, True
+    except sqlite3.Error as e:
+        logging.error(f"Database connection error: {e}")
+        return None, None, False
 
 def sql_get_id_server(server_name):
     """Get server ID from the server name - keeping original function name and query."""
@@ -65,19 +80,23 @@ def get_info():
     files_processed = 0
     records_added = 0
     
-    files_in_dir = os.listdir(current_dir)
+    files_in_dir = os.listdir(target_dir)
     for files in files_in_dir:
+        #print(files)
         if "local_report" in files:
             try:
                 # Extract server name from filename - keeping original logic
+                #print(files)
+                print(target_dir,files)
                 try:
                     server_name = files.split("local_report_")[1]
+                    print("server name is:", server_name,)
                 except IndexError:
                     server_name = "local"
                 
-                logging.info(f"Processing file: {files} for server: {server_name}")
-                
-                with open(files, "r") as fp:
+                logging.info(f"Processing file: {files} for server: {server_name}") # sure that is correct 
+                print("files anme are: ", files)
+                with open(os.path.join(target_dir, files), "r") as fp:
                     for lines in fp:
                         try:
                             # Parse line - keeping original parsing approach
@@ -108,6 +127,19 @@ def get_info():
     logging.info(f"Processing complete. Files processed: {files_processed}, Records added: {records_added}")
 
 if __name__ == "__main__":
+    conn, cursor, status = connect_to_db()
     get_info()
-    conn.close()
+    if status:
+        print(status)
+        try:
+            pass
+        finally:
+            conn.close()
+            logging.info("Database connection closed")
+    else:
+        # DB connection failed, the error is already logged in connect_to_db()
+        # No need to do anything else
+        pass
+            
+
     logging.info("Script execution completed")
