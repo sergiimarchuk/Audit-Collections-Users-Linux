@@ -6,4 +6,4 @@ local_report_*
 *.log
 
 #
-untitled.db
+*untitled.db
