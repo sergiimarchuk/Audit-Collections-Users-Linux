@@ -24,21 +24,30 @@ logging.basicConfig(
 logging.info("Starting script execution")
 
 # Configuration
-DB_NAME = 'untitled.db'  # Using original database name
+DB_NAME = '../_db/untitled.db'  # Using original database name
 REPORT_PREFIX = 'local_report'
 
 # Current directory path
 current_dir = os.getcwd()
 
 # Connect to database
-try:
-    conn = sqlite3.connect(os.path.join(current_dir, DB_NAME))
-    conn.text_factory = str
-    cursor = conn.cursor()
-    logging.info(f"Connected to database: {DB_NAME}")
-except sqlite3.Error as e:
-    logging.error(f"Database connection error: {e}")
-    exit(1)
+def connect_to_db():
+    db_path = os.path.join(current_dir, DB_NAME)
+    
+    # Check if the database file exists and has content
+    if not os.path.exists(db_path) or os.path.getsize(db_path) == 0:
+        logging.error(f"Database file does not exist or is empty: {db_path}  N. B. !: Please create db manually, just run python script which is located in dir {db_path} with name creation_db_untitled.py")
+        return None, None, False
+        
+    try:
+        conn = sqlite3.connect(db_path)
+        conn.text_factory = str
+        cursor = conn.cursor()
+        logging.info(f"Connected to database: {DB_NAME}")
+        return conn, cursor, True
+    except sqlite3.Error as e:
+        logging.error(f"Database connection error: {e}")
+        return None, None, False
 
 def sql_get_id_server(server_name):
     """Get server ID from the server name - keeping original function name and query."""
@@ -105,9 +114,22 @@ def get_info():
                 logging.error(f"Error processing file {files}: {e}")
                 continue
     
-    logging.info(f"Processing complete. Files processed: {files_processed}, Records added: {records_added}")
+    logging.error(f"Processing complete. Files processed: {files_processed}, Records added: {records_added}")
 
 if __name__ == "__main__":
+    conn, cursor, status = connect_to_db()
     get_info()
-    conn.close()
+    if status:
+        print(status)
+        try:
+            pass
+        finally:
+            conn.close()
+            logging.info("Database connection closed")
+    else:
+        # DB connection failed, the error is already logged in connect_to_db()
+        # No need to do anything else
+        pass
+            
+
     logging.info("Script execution completed")
