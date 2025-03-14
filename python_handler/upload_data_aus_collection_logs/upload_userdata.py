@@ -29,6 +29,12 @@ REPORT_PREFIX = 'local_report'
 
 # Current directory path
 current_dir = os.getcwd()
+# Get the parent directory (one level up)
+parent_dir = os.path.dirname(current_dir)
+
+# Add the target directory (_data) to the parent directory
+target_dir = os.path.join(parent_dir, "_data")
+
 
 # Connect to database
 def connect_to_db():
@@ -36,7 +42,7 @@ def connect_to_db():
     
     # Check if the database file exists and has content
     if not os.path.exists(db_path) or os.path.getsize(db_path) == 0:
-        logging.error(f"Database file does not exist or is empty: {db_path}  N. B. !: Please create db manually, just run python script which is located in dir {db_path} with name creation_db_untitled.py")
+        logging.error(f" ! Database file does not exist or is empty: {db_path}  N. B. !: Please create db manually, just run python script which is located in dir {target_dir} with name creation_db_untitled.py")
         return None, None, False
         
     try:
@@ -74,19 +80,23 @@ def get_info():
     files_processed = 0
     records_added = 0
     
-    files_in_dir = os.listdir(current_dir)
+    files_in_dir = os.listdir(target_dir)
     for files in files_in_dir:
+        #print(files)
         if "local_report" in files:
             try:
                 # Extract server name from filename - keeping original logic
+                #print(files)
+                print(target_dir,files)
                 try:
                     server_name = files.split("local_report_")[1]
+                    print("server name is:", server_name,)
                 except IndexError:
                     server_name = "local"
                 
-                logging.info(f"Processing file: {files} for server: {server_name}")
-                
-                with open(files, "r") as fp:
+                logging.info(f"Processing file: {files} for server: {server_name}") # sure that is correct 
+                print("files anme are: ", files)
+                with open(os.path.join(target_dir, files), "r") as fp:
                     for lines in fp:
                         try:
                             # Parse line - keeping original parsing approach
@@ -114,7 +124,7 @@ def get_info():
                 logging.error(f"Error processing file {files}: {e}")
                 continue
     
-    logging.error(f"Processing complete. Files processed: {files_processed}, Records added: {records_added}")
+    logging.info(f"Processing complete. Files processed: {files_processed}, Records added: {records_added}")
 
 if __name__ == "__main__":
     conn, cursor, status = connect_to_db()
