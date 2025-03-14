@@ -193,14 +193,3 @@ def extract_groups():
 
 extract_groups()
 
-def prep_to_excel():
-    """Read the log file for Excel preparation."""
-    with open(f"{cwd}/{checklog_file_}", "r") as fc:
-        for dic_line in fc:
-            print(dic_line.strip())            
-
-
-
-
-
-
