@@ -105,7 +105,8 @@ def process_responsibility_file():
                     platform_name = fields[7].strip()
                     addit_info = ""  # Additional info field is empty by default
                     
-                    logging.info("Processing server: %s" % server_name)
+                    #debug mode for checking server name 
+                    #logging.info("Processing server: %s" % server_name)
                     print("Processing server from file:", server_name)  # Similar to original script's output
                     servers_processed += 1
                     
@@ -119,7 +120,9 @@ def process_responsibility_file():
                         if success:
                             servers_added += 1
                     else:
-                        logging.info("Server %s already exists in database, skipping" % server_name)
+                        #if you need debug mode for checking server name etc, please uncomment next line
+                        #logging.info("Server %s already exists in database, skipping" % server_name)
+                        pass
                         
                 except Exception as e:
                     logging.error("Error processing line %d: %s" % (line_number, e))
