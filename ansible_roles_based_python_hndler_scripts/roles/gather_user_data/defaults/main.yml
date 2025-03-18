@@ -1,0 +1,55 @@
+# roles/gather_user_data/defaults/main.yml
+---
+# Default variables
+gather_user_data_log_dir: "{{ ansible_user_dir }}/data"
+gather_user_data_archive_dir: "/tmp"
+gather_user_data_logfile_name: "local_report_"
+gather_user_data_json_output: "users_data.json"
+gather_user_data_log_file: "log_gathering.log"
+gather_user_data_company_filter: "COMPANYNAME"  # Filter string for gecos field
+
+# roles/gather_user_data/meta/main.yml
+---
+galaxy_info:
+  role_name: gather_user_data
+  author: Ansible User
+  description: Gather user account data from Linux systems
+  license: MIT
+  min_ansible_version: 2.9
+  platforms:
+    - name: Ubuntu
+      versions:
+        - all
+    - name: Debian
+      versions:
+        - all
+    - name: EL
+      versions:
+        - all
+    - name: Fedora
+      versions:
+        - all
+  galaxy_tags:
+    - security
+    - audit
+    - users
+    - compliance
+
+dependencies: []
+
+# roles/gather_user_data/handlers/main.yml
+---
+- name: restart logging
+  service:
+    name: rsyslog
+    state: restarted
+  become: true
+  when: ansible_os_family != "Darwin"
+
+# Example playbook.yml showing how to use the role
+---
+- name: Gather User Data from Linux Systems
+  hosts: linux_servers
+  become: true
+  roles:
+    - gather_user_data
