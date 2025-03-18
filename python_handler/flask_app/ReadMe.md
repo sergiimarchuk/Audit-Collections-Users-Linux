@@ -23,13 +23,13 @@ A simple Flask application to explore and query SQLite databases.
    ```
 
 3. The app is configured to look for the database at:
-   `/opt/github_public_repo/Audit-Collections-Users-Linux/python_handler/_db/untitled.db`
+   `../_db/untitled.db`
 
 ## Running the Application
 
 1. Navigate to the flask_app directory:
    ```bash
-   cd /opt/github_public_repo/Audit-Collections-Users-Linux/python_handler/flask_app
+   cd ..python_handler/flask_app
    ```
 
 2. Run the Flask application:
