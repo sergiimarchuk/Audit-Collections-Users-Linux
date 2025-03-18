@@ -13,7 +13,7 @@ gather_user_data_company_filter: "COMPANYNAME"  # Filter string for gecos field
 galaxy_info:
   role_name: gather_user_data
   author: Ansible User
-  description: Gather user account data from Linux systems
+  description: Gather user account data from multiple operating systems
   license: MIT
   min_ansible_version: 2.9
   platforms:
@@ -29,27 +29,63 @@ galaxy_info:
     - name: Fedora
       versions:
         - all
+    - name: AIX
+      versions:
+        - all
+    - name: HP-UX
+      versions:
+        - all
+    - name: Solaris
+      versions:
+        - all
+    - name: Windows
+      versions:
+        - all
   galaxy_tags:
     - security
     - audit
     - users
     - compliance
+    - cross-platform
 
 dependencies: []
 
 # roles/gather_user_data/handlers/main.yml
 ---
-- name: restart logging
+- name: restart logging on Linux
   service:
     name: rsyslog
     state: restarted
   become: true
-  when: ansible_os_family != "Darwin"
+  when: ansible_os_family in ["RedHat", "Debian", "Suse"]
+
+- name: restart logging on AIX
+  command: refresh -s syslogd
+  become: true
+  when: ansible_os_family == "AIX"
+
+- name: restart logging on HP-UX
+  command: /sbin/init.d/syslogd restart
+  become: true
+  when: ansible_os_family == "HP-UX"
+
+- name: restart logging on Solaris
+  service:
+    name: system-log
+    state: restarted
+  become: true
+  when: ansible_os_family == "Solaris"
+
+- name: restart logging on Windows
+  win_service:
+    name: Windows Event Log
+    state: restarted
+  when: ansible_os_family == "Windows"
 
 # Example playbook.yml showing how to use the role
 ---
-- name: Gather User Data from Linux Systems
-  hosts: linux_servers
+- name: Gather User Data from Multiple Operating Systems
+  hosts: all
   become: true
   roles:
     - gather_user_data
