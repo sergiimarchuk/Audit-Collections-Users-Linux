@@ -14,14 +14,6 @@ from datetime import datetime
 
 formatted_time = datetime.now().strftime("_moved_%Y-%m-%dt%Hh%Mm%Ss")
 
-#hostname_var = socket.gethostname()
-
-
-#dict_user_var = {}
-
-
-#group_list = []
-
 # Get timestamp
 datetime_var = datetime.now().strftime('%Y-%m-%d')
 time_var = datetime.now().strftime('%H:%M:%S')
@@ -65,9 +57,6 @@ setup_logger()
 #log_message("This is an info message.")
 #log_message("This is a warning!", "warning")
 #log_message("An error occurred!", "error")
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
 
 def log_rm():
     """Remove log file if it exists."""
